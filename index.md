@@ -3,7 +3,7 @@ title: King'ori's
 layout: index
 ---
 
-### Torah (or "Pentateuch")
+### Torah/Pentateuch
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -109,6 +109,7 @@ layout: index
 | Jude               | 359 |
 | Revelation         | 360 • 361 • 362 • 363 • 364 |
 
+The Protestant Christian Bible has a total of 66 books: 39 in the Old Testament and 27 in the New Testament.
 
 ---
 1. The main determinant in the number of days set to complete a book is the amount of content i.e. larger books take longer to go through.
