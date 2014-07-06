@@ -1,3 +1,18 @@
+@font_color:        hsl(  0,  0%, 30% );
+@highlight_default: hsl( 10, 90%, 60% );
+@lightergrey:       hsl(  0,  0%, 80% );
+
+@color0: hsl(  10, 90%, 60% );
+@color1: hsl(  30, 90%, 60% );
+@color2: hsl( 152, 25%, 53% );
+@color3: hsl( 210, 90%, 60% );
+@color4: hsl( 230, 90%, 60% );
+@color5: hsl( 270, 90%, 60% );
+@color6: hsl( 290, 90%, 60% );
+@color7: hsl( 310, 90%, 60% );
+@color8: hsl( 330, 90%, 60% );
+@color9: hsl( 350, 90%, 60% );
+
 #homepage {
 
   table {
@@ -5,6 +20,74 @@
       th:first-child, td:first-child {
         width: 30%;
       }
+    }
+  }
+}
+
+header {
+
+  margin-top: 2.0em;
+  margin-bottom: 1.5em;
+  border-bottom: 1px solid @lightergrey;
+
+  > div {
+    padding-bottom: 10px;
+  }
+
+  div {
+    height: 59px;
+  }
+
+  a#logo {
+    background-color: white; // prevent flash of color
+    border-radius: 24px;
+    display: inline-block;
+    height: 48px;
+    width: 48px;
+    -webkit-transition: background-color 5.0s linear;
+    -moz-transition: background-color 5.0s linear;
+    -ms-transition: background-color 5.0s linear;
+    -o-transition: background-color 5.0s linear;
+    transition: background-color 5.0s linear;
+  }
+
+  a#logo.bkgcolor0 { background-color: @color0; } // 1
+  a#logo.bkgcolor1 { background-color: @color1; } // 2
+  a#logo.bkgcolor2 { background-color: @color2; } // 3
+  a#logo.bkgcolor3 { background-color: @color3; } // 4
+  a#logo.bkgcolor4 { background-color: @color4; } // 5
+  a#logo.bkgcolor5 { background-color: @color5; } // 6
+  a#logo.bkgcolor6 { background-color: @color6; } // 7
+  a#logo.bkgcolor7 { background-color: @color7; } // 8
+  a#logo.bkgcolor8 { background-color: @color8; } // 9
+  a#logo.bkgcolor9 { background-color: @color9; } // 10
+
+  a#logo:hover {
+    border-bottom: none;
+  }
+
+  a#title {
+    font-weight: bold;
+    font-size: 1.1em;
+    height:59px;
+    letter-spacing: 0.2em;
+    line-height:59px;
+  }
+}
+
+footer {
+
+  font-size: 0.85em;
+  margin-top: 2em;
+  border-top: 1px solid @lightergrey;
+
+  > div {
+    padding-top: 10px;
+
+    > div {
+      height: 59px;
+      padding-left: 0px !important;
+      padding-right: 0px !important;
     }
   }
 }
