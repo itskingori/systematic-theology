@@ -1,4 +1,3 @@
-name: "Bible Study"
 markdown: redcarpet
 pygments: true
 baseurl: /systematic-theology
@@ -8,6 +7,8 @@ redcarpet:
 
 exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-project', 'README.md']
 
+name: "Bible Study"
+description: "Daily collection and exploration of the God's authoritative word by King'ori J. Maina"
 author:
   fullname: "King'ori J. Maina"
   website: "http://kingori.co"
