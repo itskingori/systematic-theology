@@ -3,9 +3,7 @@ title: King'ori's
 layout: index
 ---
 
-### Old Testament
-
-#### Torah (or "Pentateuch")
+### Torah (or "Pentateuch")
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -15,7 +13,7 @@ layout: index
 | Numbers            | 39 • 40 •  41 •  42 •  43 •  44 •  45 •  46•  47 •  48 •  49 •  50 •  51 |
 | Deuteronomy        | 52 • 53 • 54 •  55 •  56 •  57 •  58 •  59 •  60 •  61 • 62 |
 
-#### Historical Books
+### Historical Books
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -32,7 +30,7 @@ layout: index
 | Nehemiah           | 141 • 142 • 143 • 144 • 145 |
 | Esther             | 146 • 147 |
 
-#### Wisdom Books
+### Wisdom Books
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -42,7 +40,7 @@ layout: index
 |  Ecclesiastes      | 194 • 195 • 196 |
 |  Song of Solomon   | 197 • 198 |
 
-#### Major Prophets
+### Major Prophets
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -52,7 +50,7 @@ layout: index
 | Ezekiel            | 242 • 243 • 244 • 245 • 246 • 247 • 248 • 249 • 250 • 251 • 252 • 253 • 254 • 255 • 256 • 257 |
 | Daniel             | 258 • 259 • 260  • 261 |
 
-#### Minor Prophets
+### Minor Prophets
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -69,10 +67,7 @@ layout: index
 | Zechariah          | 276 • 277 • 278  |
 | Malachi            | 279 |
 
-
-### New Testament
-
-#### The Gospels and Acts
+### The Gospels and Acts
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -82,7 +77,7 @@ layout: index
 | John               | 309 • 310 • 311 • 312 • 313 • 314 • 315 • 316 |
 | Acts               | 317 • 318 • 319 • 320 • 321 • 322 • 323 • 324 • 325 • 326 • 327 |
 
-#### Pauline Epistles
+### Pauline Epistles
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -100,7 +95,7 @@ layout: index
 | Titus              | 348 |
 | Philemon           | 349 |
 
-#### General Epistles and The Revelation
+### General Epistles and The Revelation
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
@@ -113,3 +108,7 @@ layout: index
 | 3 John             | 358 |
 | Jude               | 359 |
 | Revelation         | 360 • 361 • 362 • 363 • 364 |
+
+
+---
+1. The main determinant in the number of days set to complete a book is the amount of content i.e. larger books take longer to go through.
