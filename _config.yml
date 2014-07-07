@@ -7,8 +7,15 @@ redcarpet:
 
 exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-project', 'README.md']
 
-name: "Bible Study"
-description: "Daily collection and exploration of the God's authoritative word by King'ori J. Maina"
+full-title: "King'ori's Bible Study"
+short-title: "Bible Study"
+description: |-
+  Daily collection and exploration of the God's authoritative Word which we
+  should study because 'All scripture is given by inspiration of God, and is
+  profitable for doctrine, for reproof, for correction, for instruction in
+  righteousness (2 Timothy 3:16 - KJV).
+
 author:
   fullname: "King'ori J. Maina"
   website: "http://kingori.co"
+  twitter: "itsmrwave"

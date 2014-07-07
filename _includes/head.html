@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- +++ PAGE INFO +++ -->
-  <title>{{ page.title }} • {{ site.name }}</title>
+  <title>{{ page.title }} • {{ site.short-title }}</title>
 
   <!-- +++ FAVICON & ICONS: combined 16, 32 & 48 +++ -->
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
@@ -20,9 +20,16 @@
   <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/application.js"></script>
 
   <!-- +++ METADATA +++ -->
-  <meta content="{{ site.description }}" name="description" />
-  <meta content="{{ page.title }} • {{ site.name }}" property="og:title" />
-  <meta content="{{ site.description }}" property="og:description" />
-  <meta content="King'ori's Bible Study" property="og:site_name" />
+  <meta content="{{ site.description | xml_escape }}" name="description" />
+  <meta content="http://static.kingori.co/images/logo-dark-300.png" property="image" />
+  <meta content="{{ page.title | xml_escape }} • {{ site.short-title | xml_escape }}" property="og:title" />
+  <meta content="{{ site.description | xml_escape}}" property="og:description" />
+  <meta content="{{ site.full-title | xml_escape }}" property="og:site_name" />
+  <meta content="http://static.kingori.co/images/logo-dark-300.png" property="og:image" />
+  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:site" content="@{{ site.author.twitter }}" />
+  <meta property="twitter:title" content="{{ page.title | xml_escape }}" />
+  <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+  <meta property="twitter:image" content="http://static.kingori.co/images/logo-dark-300.png" />
 
 </head>
