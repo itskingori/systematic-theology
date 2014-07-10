@@ -7,7 +7,8 @@ permalink: /
 This study plan is designed to cover the entire Bible in 364 days (approximately
 1 year). The amount of text i.e. number of pages of the book is taken into
 account so as to fairly distribute the amount of time required to cover any
-particular book. This means that each book will require more days to go through.
+particular book. This means that longer books will require more days to go
+through.
 
 There's also a [breakdown][1] to serve as a guide as to which chapters should be
 included in the [daily reading][1]. Consideration was taken to make sure the
