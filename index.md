@@ -1,7 +1,18 @@
 ---
 title: King'ori's
 layout: index
+permalink: /
 ---
+
+This study plan is designed to cover the entire Bible in 364 days (approximately
+1 year). The amount of text i.e. number of pages of the book is taken into
+account so as to fairly distribute the amount of time required to cover any
+particular book. This means that each book will require more days to go through.
+
+There's also a [breakdown][1] to serve as a guide as to which chapters should be
+included in the [daily reading][1]. Consideration was taken to make sure the
+chapters are distributed in such a way that in each day only one book is
+covered.
 
 ### Torah/Pentateuch
 
@@ -117,3 +128,5 @@ The Protestant Christian Bible has a total of 66 books: 39 in the Old Testament 
 the amount of content i.e. larger books take longer to go through. And by
 larger, this isn't referring to the number of chapters but the actual amount of
 text in the book.
+
+[1]: {{ site.baseurl }}/about/daily-breakdown/
