@@ -135,4 +135,4 @@ text in the book.
 
 [1]: {{ site.baseurl }}/about/daily-breakdown/
 
-[11]: {{ site.baseurl }}/book/1-kings/
+[11]: {{ site.baseurl }}/books/1-kings/

@@ -707,4 +707,4 @@ The schedule below details the chapters to cover per day.
 
 [1]: {{ site.baseurl }}/
 
-[11]: {{ site.baseurl }}/book/1-kings/
+[11]: {{ site.baseurl }}/books/1-kings/
