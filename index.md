@@ -4,6 +4,11 @@ layout: index
 permalink: /
 ---
 
+The Bible is God's Word which [covers several topics][3] and involves [different
+people with diverse backgrounds, characters and abilites][2]. We should not only
+read through it but study it deeply ... this is the marvelous story of which
+Jesus Christ is the centerpiece!
+
 This study plan is designed to cover the entire Bible in 364 days (approximately
 1 year). The amount of text i.e. number of pages of the book is taken into
 account so as to fairly distribute the amount of time required to cover any
@@ -134,5 +139,7 @@ larger, this isn't referring to the number of chapters but the actual amount of
 text in the book.
 
 [1]: {{ site.baseurl }}/about/daily-breakdown/
+[2]: {{ site.baseurl }}/people/
+[3]: {{ site.baseurl }}/topics/
 
 [11]: {{ site.baseurl }}/books/1-kings/

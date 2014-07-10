@@ -1,10 +1,9 @@
 ---
 title: King David's Wives and Children
-layout: default
+layout: study
 permalink: /topics/king-davids-wives-children/
+sectionlink: /topics/
 description: The Wives and Children of King David
 ---
-
-## {{ page.title }}
 
 [To be updated]
