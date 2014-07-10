@@ -158,7 +158,7 @@ The schedule below details the chapters to cover per day.
 | 95  | Chapter 21 • Chapter 22              |
 | 96  | Chapter 23 • Chapter 24              |
 
-### 1 Kings
+### [1 Kings][11]
 
 | Day | Content to cover                     |
 | --- | ------------------------------------ |
@@ -706,3 +706,5 @@ The schedule below details the chapters to cover per day.
 | 364 | Chapter 19 • Chapter 20 • Chapter 21 • Chapter 22              |
 
 [1]: {{ site.baseurl }}/
+
+[11]: {{ site.baseurl }}/book/1-kings/

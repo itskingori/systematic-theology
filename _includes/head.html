@@ -20,16 +20,16 @@
   <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/application.js"></script>
 
   <!-- +++ METADATA +++ -->
-  <meta content="{{ site.description | xml_escape }}" name="description" />
+  <meta content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}" name="description" />
   <meta content="http://static.kingori.co/images/logo-dark-300.png" property="image" />
   <meta content="{{ page.title | xml_escape }} • {{ site.short-title | xml_escape }}" property="og:title" />
-  <meta content="{{ site.description | xml_escape}}" property="og:description" />
+  <meta content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}" property="og:description" />
   <meta content="{{ site.full-title | xml_escape }}" property="og:site_name" />
   <meta content="http://static.kingori.co/images/logo-dark-300.png" property="og:image" />
   <meta property="twitter:card" content="summary" />
   <meta property="twitter:site" content="@{{ site.author.twitter }}" />
   <meta property="twitter:title" content="{{ page.title | xml_escape }}" />
-  <meta property="twitter:description" content="{{ site.description | xml_escape }}" />
+  <meta property="twitter:description" content="{% if page.description %}{{ page.description | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}" />
   <meta property="twitter:image" content="http://static.kingori.co/images/logo-dark-300.png" />
 
 </head>

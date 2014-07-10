@@ -14,6 +14,9 @@ included in the [daily reading][1]. Consideration was taken to make sure the
 chapters are distributed in such a way that in each day only one book is
 covered.
 
+_Ps: Books that I've covered or have began covering should have a link to the
+study material. Work in progress is marked by a ☆ and complete work by a ★._
+
 ### Torah/Pentateuch
 
 | Book               | Day of the Year                                   |
@@ -33,7 +36,7 @@ covered.
 | Ruth               | 77 |
 | 1 Samuel           | 78 • 79 • 80 • 81 • 82 • 83 • 84 • 85 • 86 • 87 |
 | 2 Samuel           | 88 • 89 • 90 • 91 • 92 • 93 • 94 • 95 • 96 |
-| 1 Kings            | 97 • 98 • 99 • 100 • 101 • 102 • 103 • 104 • 105 • 106 |
+| [1 Kings][11] ☆    | 97 • 98 • 99 • 100 • 101 • 102 • 103 • 104 • 105 • 106 |
 | 2 Kings            | 107 • 108 • 109 • 110 • 111 • 112 • 113 • 114 • 115 |
 | 1 Chronicles       | 116 • 117 • 118 • 119 • 120 • 121 • 122 • 123 • 124 • 125 • 126 |
 | 2 Chronicles       | 127 • 128 • 129 • 130 • 131 • 132 • 133 • 134 • 135 • 136 • 137 |
@@ -130,3 +133,5 @@ larger, this isn't referring to the number of chapters but the actual amount of
 text in the book.
 
 [1]: {{ site.baseurl }}/about/daily-breakdown/
+
+[11]: {{ site.baseurl }}/book/1-kings/
