@@ -3,7 +3,6 @@ title: 1 Kings Chapter 1
 layout: study
 permalink: /books/1-kings/chapter-1/
 sectionlink: /books/1-kings/
-description: Study of Chapter 1 of 1 Kings (the 11th book of the Bible)
 ---
 
 > 1 Now king David was old [and] stricken in years; and they covered him with clothes, but he gat no heat.

@@ -2,6 +2,11 @@
 title: King'ori's
 layout: index
 permalink: /
+description: |-
+  Daily collection and exploration of the God's authoritative Word which we
+  should study because 'All scripture is given by inspiration of God, and is
+  profitable for doctrine, for reproof, for correction, for instruction in
+  righteousness (2 Timothy 3:16 - KJV).
 ---
 
 The Bible is God's Word which [covers several topics][3] and involves [different

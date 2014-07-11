@@ -2,7 +2,6 @@
 title: 1 Kings
 layout: default
 permalink: /books/1-kings/
-description: Study of 1 Kings, the 11th book of the Bible.
 ---
 
 ## {{ page.title }}

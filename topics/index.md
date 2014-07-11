@@ -2,7 +2,6 @@
 title: Topics in the Bible
 layout: default
 permalink: /topics/
-description: Various topics of the Bible.
 ---
 
 ## {{ page.title }}

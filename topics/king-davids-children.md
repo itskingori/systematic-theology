@@ -3,7 +3,6 @@ title: King David's Wives and Children
 layout: study
 permalink: /topics/king-davids-wives-children/
 sectionlink: /topics/
-description: The Wives and Children of King David
 ---
 
 In total David had 19 sons. 6 from his first 6 wives in Hebron and in Jerusalem;
@@ -43,4 +42,3 @@ to Absalom.
 ---
 
 1. Only the order of the first 6 children seems to be confirmed in 2 Samuel 3:1-5.
-2.

@@ -2,7 +2,6 @@
 title: People of the Bible
 layout: default
 permalink: /people/
-description: Various people of the Bible.
 ---
 
 ## {{ page.title }}
