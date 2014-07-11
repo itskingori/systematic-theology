@@ -26,7 +26,9 @@ immediately condemned the act in 2 Samuel 3:31-38.
 the fighting was fiercest so that he would be struck down and die. See 2 Samuel
 11:14-27.
 
-* He was instrumental in putting down Absalom's coup attempt. See 18:1-18.
+* He was instrumental in putting down Absalom's coup attempt. See 18:1-18. I 2
+Samuel 19:5-7 he rebukes King David for his reaction to Absalom's death which
+shamed the men who had been loyal to him.
 
 * Interestingly Joab supported Adonijah's attempt at grabbing power against the
 intended succession plan. This was similar to Absalom's coup attempt. See 1
