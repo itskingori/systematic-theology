@@ -4,7 +4,7 @@ layout: default
 permalink: /books/1-kings/
 ---
 
-## {{ page.title }}
+## The Book of {{ page.title }}
 
 First Kings is the **11th book of the Bible** and it continues the story where 2
 Samuel left off. Chapters 1-2 complete the presentation of the reign of David
