@@ -9,10 +9,10 @@ description: |-
   righteousness (2 Timothy 3:16 - KJV).
 ---
 
-The Bible is God's Word which [covers several topics][3] and involves [different
-people with diverse backgrounds, characters and abilites][2]. We should not only
-read through it but study it deeply ... this is the marvelous story of which
-Jesus Christ is the centerpiece!
+The Bible is God's authoritative Word which [covers several topics][3] and
+involves [different people with diverse backgrounds, characters and
+abilites][2]. We should not only read through it but study it deeply ... in this
+marvelous story **Jesus Christ is the centerpiece!**
 
 This study plan is designed to cover the entire Bible in 364 days (approximately
 1 year). The amount of text i.e. number of pages of the book is taken into
@@ -26,7 +26,16 @@ chapters are distributed in such a way that in each day only one book is
 covered.
 
 _Ps: Books that I've covered or have began covering should have a link to the
-study material. Work in progress is marked by a ☆ and complete work by a ★._
+study material. By cover I mean convert to a digital format on the Web — as an
+attempt at making my Bible study (which till this point existed mostly in my
+head and in notebooks) publicly accessible. Work in progress is marked by a ☆
+and complete work by a ★._
+
+_Ps 2: Ultimately, this is intended to be my life's work. It's nowhere near
+complete i.e. having content on each book, chapter, [topic][3] and
+[character][2]. I figured that I'll never start if choose to start when I know
+it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
+the scroll down to [1 Kings][11]._
 
 ### Torah/Pentateuch
 
@@ -146,5 +155,6 @@ text in the book.
 [1]: {{ site.baseurl }}/about/daily-breakdown/
 [2]: {{ site.baseurl }}/people/
 [3]: {{ site.baseurl }}/topics/
+[4]: mailto:j+st@kingori.co?Subject=Hey%20There...
 
 [11]: {{ site.baseurl }}/books/1-kings/
