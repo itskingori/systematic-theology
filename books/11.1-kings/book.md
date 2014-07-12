@@ -24,8 +24,8 @@ force. [[1][link-1]]
 | ----------- | ------------------------------------ |
 | [Ch. 1][1]  | [Adonijah Sets Himself Up as King][1] |
 |             | [David Makes Solomon King][1] |
-| Ch. 2       | David's Charge to Solomon |
-|             | Solomon's Throne Established |
+| [Ch. 2][2]  | [David's Charge to Solomon][2] |
+|             | [Solomon's Throne Established][2] |
 | Ch. 3       | Solomon Asks for Wisdom |
 |             | A Wise Ruling |
 | Ch. 4       | Solomon's Officials and Governors |
@@ -80,7 +80,7 @@ force. [[1][link-1]]
 
 | Day of the Year | Content to cover                     |
 | --------------- | ------------------------------------ |
-| 97              | [Chapter 1][1] • Chapter 2           |
+| 97              | [Chapter 1][1] • [Chapter 2][2]      |
 | 98              | Chapter 3 • Chapter 4                |
 | 99              | Chapter 5 • Chapter 6                |
 | 100             | Chapter 7 • Chapter 8                |
@@ -94,3 +94,4 @@ force. [[1][link-1]]
 [link-1]: http://www.enterthebible.org/oldtestament.aspx?rid=31
 
 [1]: {{ site.baseurl }}/books/1-kings/chapter-1/
+[2]: {{ site.baseurl }}/books/1-kings/chapter-2/
