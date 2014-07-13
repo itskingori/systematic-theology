@@ -28,9 +28,9 @@ force. [[1][link-1]]
 |             | [King Solomon's Throne Established][2] |
 | [Ch. 3 ][3] | [King Solomon Asks for Wisdom][3] |
 |             | [The Case of the Two Prostitutes][3] |
-| Ch. 4       | Solomon's Officials and Governors |
-|             | Solomon's Daily Provisions |
-|             | Solomon's Wisdom |
+| [Ch. 4][4]  | [Solomon's Officials and Governors][4] |
+|             | [Solomon's Daily Provisions][4] |
+|             | [Solomon's Wisdom][4] |
 | Ch. 5       | Preparations for Building the Temple |
 | Ch. 6       | Solomon Builds the Temple |
 | Ch. 7       | Solomon Builds His Palace |
@@ -81,7 +81,7 @@ force. [[1][link-1]]
 | Day of the Year | Content to cover                     |
 | --------------- | ------------------------------------ |
 | 97              | [Chapter 1][1] • [Chapter 2][2]      |
-| 98              | [Chapter 3][3] • Chapter 4           |
+| 98              | [Chapter 3][3] • [Chapter 4][4]      |
 | 99              | Chapter 5 • Chapter 6                |
 | 100             | Chapter 7 • Chapter 8                |
 | 101             | Chapter 9 • Chapter 10               |
@@ -96,3 +96,4 @@ force. [[1][link-1]]
 [1]: {{ site.baseurl }}/books/1-kings/chapter-1/
 [2]: {{ site.baseurl }}/books/1-kings/chapter-2/
 [3]: {{ site.baseurl }}/books/1-kings/chapter-3/
+[4]: {{ site.baseurl }}/books/1-kings/chapter-4/

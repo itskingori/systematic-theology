@@ -162,8 +162,8 @@ The schedule below details the chapters to cover per day.
 
 | Day | Content to cover                     |
 | --- | ------------------------------------ |
-| 97  | [Chapter 1][1-kings-ch3] • [Chapter 2][1-kings-ch3] |
-| 98  | [Chapter 3][1-kings-ch3] • Chapter 4 |
+| 97  | [Chapter 1][1-kings-ch1] • [Chapter 2][1-kings-ch2] |
+| 98  | [Chapter 3][1-kings-ch3] • [Chapter 4][1-kings-ch4] |
 | 99  | Chapter 5 • Chapter 6                |
 | 100 | Chapter 7 • Chapter 8                |
 | 101 | Chapter 9 • Chapter 10               |
@@ -712,3 +712,4 @@ The schedule below details the chapters to cover per day.
 [1-kings-ch1]: {{ site.baseurl }}/books/1-kings/chapter-1/
 [1-kings-ch2]: {{ site.baseurl }}/books/1-kings/chapter-2/
 [1-kings-ch3]: {{ site.baseurl }}/books/1-kings/chapter-3/
+[1-kings-ch4]: {{ site.baseurl }}/books/1-kings/chapter-4/
