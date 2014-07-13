@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-2/
 sectionlink: /books/1-kings/
 ---
 
+### King David's Charge to King Solomon
+
 > 1 Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,
 > 2 I go the way of all the earth: be thou strong therefore, and shew thyself a man;
 
@@ -50,6 +52,10 @@ an oath not to kill him. (2 Samuel 19:18-23).
 rest in Jerusalem.
 
 > 12 ∂ Then sat Solomon upon the throne of David his father; and his kingdom was established greatly.
+
+
+### King Solomon's Throne Established
+
 > 13 ∂ And Adonijah the son of Haggith came to Bath-sheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably.
 > 14 He said moreover, I have somewhat to say unto thee. And she said, Say on.
 > 15 And he said, Thou knowest that the kingdom was mine, and [that] all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother's: for it was his from the LORD.

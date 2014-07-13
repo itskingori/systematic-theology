@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-1/
 sectionlink: /books/1-kings/
 ---
 
+### Adonijah Tries to Set Himself Up as King
+
 > 1 Now king David was old [and] stricken in years; and they covered him with clothes, but he gat no heat.
 > 2 Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
 > 3 So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
@@ -66,6 +68,9 @@ sectionlink: /books/1-kings/
 > 27 Is this thing done by my lord the king, and thou hast not shewed [it] unto thy servant, who should sit on the throne of my lord the king after him?
 
 * Bathsheba and Nathan approach this situation with tact, while still showing King David respect.
+
+
+### King David Makes Solomon King
 
 > 28 ∂ Then king David answered and said, Call me Bath-sheba. And she came into the king's presence, and stood before the king.
 > 29 And the king sware, and said, [As] the LORD liveth, that hath redeemed my soul out of all distress,
