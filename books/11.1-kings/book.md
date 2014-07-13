@@ -22,12 +22,12 @@ force. [[1][link-1]]
 
 | Chapter     | Content                              |
 | ----------- | ------------------------------------ |
-| [Ch. 1][1]  | [Adonijah Sets Himself Up as King][1] |
-|             | [David Makes Solomon King][1] |
-| [Ch. 2][2]  | [David's Charge to Solomon][2] |
-|             | [Solomon's Throne Established][2] |
-| Ch. 3       | Solomon Asks for Wisdom |
-|             | A Wise Ruling |
+| [Ch. 1][1]  | [Adonijah Tries to Set Himself Up as King][1] |
+|             | [King David Makes Solomon King][1] |
+| [Ch. 2][2]  | [King David's Charge to King Solomon][2] |
+|             | [King Solomon's Throne Established][2] |
+| [Ch. 3 ][3] | [King Solomon Asks for Wisdom][3] |
+|             | [The Case of the Two Prostitutes][3] |
 | Ch. 4       | Solomon's Officials and Governors |
 |             | Solomon's Daily Provisions |
 |             | Solomon's Wisdom |
@@ -81,7 +81,7 @@ force. [[1][link-1]]
 | Day of the Year | Content to cover                     |
 | --------------- | ------------------------------------ |
 | 97              | [Chapter 1][1] • [Chapter 2][2]      |
-| 98              | Chapter 3 • Chapter 4                |
+| 98              | [Chapter 3][3] • Chapter 4           |
 | 99              | Chapter 5 • Chapter 6                |
 | 100             | Chapter 7 • Chapter 8                |
 | 101             | Chapter 9 • Chapter 10               |
@@ -95,3 +95,4 @@ force. [[1][link-1]]
 
 [1]: {{ site.baseurl }}/books/1-kings/chapter-1/
 [2]: {{ site.baseurl }}/books/1-kings/chapter-2/
+[3]: {{ site.baseurl }}/books/1-kings/chapter-3/
