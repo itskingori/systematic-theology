@@ -57,7 +57,7 @@ becomes king (1 Kings 12:16,17).
 > 27 And those officers provided victual for king Solomon, and for all that came unto king Solomon's table, every man in his month: they lacked nothing.
 > 28 Barley also and straw for the horses and dromedaries brought they unto the place where [the officers] were, every man according to his charge.
 
-* King Solomon's reign was filled with abundance, peace and no lack.
+* King Solomon's reign was filled with abundance, peace and no lack. See 5:4 also.
 * His rule was extensive, even far off regions submitted to him.
 
 
