@@ -28,13 +28,13 @@ force. [[1][link-1]]
 |             | [King Solomon's Throne Established][2] |
 | [Ch. 3 ][3] | [King Solomon Asks for Wisdom][3] |
 |             | [The Case of the Two Prostitutes][3] |
-| [Ch. 4][4]  | [Solomon's Officials and Governors][4] |
-|             | [Solomon's Daily Provisions][4] |
-|             | [Solomon's Wisdom][4] |
+| [Ch. 4][4]  | [King Solomon's Officials and Governors][4] |
+|             | [King Solomon's Daily Provisions][4] |
+|             | [King Solomon's Wisdom][4] |
 | [Ch. 5][5]  | [Preparations for Building the Temple][5] |
-| [Ch. 6][6]  | [Solomon Builds the Temple][6] |
-| Ch. 7       | Solomon Builds His Palace |
-|             | The Temple's Furnishings |
+| [Ch. 6][6]  | [King Solomon Builds the Temple][6] |
+| [Ch. 7][7]  | [King Solomon Builds His Palace][7] |
+|             | [The Temple's Furnishings][7] |
 | Ch. 8       | The Ark Brought to the Temple |
 |             | Solomon's Prayer of Dedication |
 |             | The Dedication of the Temple |
@@ -83,7 +83,7 @@ force. [[1][link-1]]
 | 97              | [Chapter 1][1] • [Chapter 2][2] |
 | 98              | [Chapter 3][3] • [Chapter 4][4] |
 | 99              | [Chapter 5][5] • [Chapter 6][6] |
-| 100             | Chapter 7 • Chapter 8 |
+| 100             | [Chapter 7][7] • Chapter 8 |
 | 101             | Chapter 9 • Chapter 10 |
 | 102             | Chapter 11 • Chapter 12 |
 | 103             | Chapter 13 • Chapter 14 |
@@ -99,3 +99,4 @@ force. [[1][link-1]]
 [4]: {{ site.baseurl }}/books/1-kings/chapter-4/
 [5]: {{ site.baseurl }}/books/1-kings/chapter-5/
 [6]: {{ site.baseurl }}/books/1-kings/chapter-6/
+[7]: {{ site.baseurl }}/books/1-kings/chapter-7/

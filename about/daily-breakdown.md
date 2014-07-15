@@ -165,7 +165,7 @@ The schedule below details the chapters to cover per day.
 | [97][1-kings]  | [Chapter 1][1-kings-ch1] • [Chapter 2][1-kings-ch2] |
 | [98][1-kings]  | [Chapter 3][1-kings-ch3] • [Chapter 4][1-kings-ch4] |
 | [99][1-kings]  | [Chapter 5][1-kings-ch5] • [Chapter 6][1-kings-ch6] |
-| [100][1-kings] | Chapter 7 • Chapter 8 |
+| [100][1-kings] | [Chapter 7][1-kings-ch7] • Chapter 8 |
 | [101][1-kings] | Chapter 9 • Chapter 10 |
 | [102][1-kings] | Chapter 11 • Chapter 12 |
 | [103][1-kings] | Chapter 13 • Chapter 14 |
@@ -716,3 +716,4 @@ The schedule below details the chapters to cover per day.
 [1-kings-ch4]: {{ site.baseurl }}/books/1-kings/chapter-4/
 [1-kings-ch5]: {{ site.baseurl }}/books/1-kings/chapter-5/
 [1-kings-ch6]: {{ site.baseurl }}/books/1-kings/chapter-6/
+[1-kings-ch7]: {{ site.baseurl }}/books/1-kings/chapter-7/
