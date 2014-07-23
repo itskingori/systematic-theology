@@ -5,8 +5,8 @@ permalink: /topics/king-davids-wives-children/
 sectionlink: /topics/
 ---
 
-In total David had 19 sons. 6 from his first 6 wives in Hebron and in Jerusalem;
-4 from Bathsheba and 9 from his concubines.
+In total David had 19 sons. 6 from his first 6 wives in Hebron and the rest born
+to him in Jerusalem; 4 from Bathsheba and 9 from his concubines.
 
 Children born to David in Hebron where he ruled for 7½ years as King of Judah.
 See 1 Chronicles 3:1-4 & 2 Samuel 3:1-5.
@@ -41,4 +41,4 @@ to Absalom.
 
 ---
 
-1. Only the order of the first 6 children seems to be confirmed in 2 Samuel 3:1-5.
+* Only the order of the first 6 children seems to be confirmed in 2 Samuel 3:1-5.
