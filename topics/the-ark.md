@@ -105,10 +105,10 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
 * Are to have wings, spread upward and overshadowing the cover — Exodus 25:20, 37:9.
 * The Cherubim are to face each other — Exodus 25:20, 37:9.
 
-[1-kings-ch8]: {{ site.baseurl }}/books/1-kings/chapter-8/
-
 ---
 
 1. What did God mean by the Testimony in Exodus 25:16,21?
 2. At what point is the gold jar of manna and Aaron's staff mentioned in Hebrews
    9:3,4 added to the ark?
+
+[1-kings-ch8]: {{ site.baseurl }}/books/1-kings/chapter-8/
