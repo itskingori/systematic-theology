@@ -1,5 +1,5 @@
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /systematic-theology
 relative_permalinks: false
 
