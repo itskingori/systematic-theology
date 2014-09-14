@@ -36,7 +36,7 @@ force. [[1][link-1]]
 | [Ch. 7][7]   | [King Solomon Builds His Palace][7] |
 |              | [The Temple's Furnishings][7] |
 | [Ch. 8][8]   | [The Ark Brought to the Temple][8] |
-|              | [Solomon's Prayer of Dedication][8] |
+|              | [King Solomon's Prayer of Dedication][8] |
 |              | [The Dedication of the Temple][8] |
 | [Ch. 9][9]   | [The LORD Appears to Solomon][9] |
 |              | [Solomon's Other Activities][9] |

@@ -5,10 +5,27 @@ permalink: /books/1-kings/chapter-8/
 sectionlink: /books/1-kings/
 ---
 
+### The Ark Brought to the Temple
+
 > 1 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which [is] Zion.
 > 2 And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which [is] the seventh month.
 > 3 And all the elders of Israel came, and the priests took up the ark.
+
+* [The ark][the-ark] had been in Jerusalem (the City of David, also known as
+Zion) all this time. Learn more  about [the ark that housed the Testimony][the-ark].
+
 > 4 And they brought up the ark of the LORD, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, even those did the priests and the Levites bring up.
+
+* [The tabernacle][the-tabernacle] was a place where the Israelites would meet
+with the LORD before [the temple][the-temple] was built.
+* The temple housed some pieces of furniture, namely:
+  * The altar of burnt offering — Exodus 27:1-8
+  * The altar of incense — Exodus 30:1-10
+  * [The ark][the-ark] — Exodus 25:10-22
+  * The basin for washing — Exodus 30:17-21
+  * The lampstand — Exodus 25:31-40
+  * The table — Exodus 25:23-30
+
 > 5 And king Solomon, and all the congregation of Israel, that were assembled unto him, [were] with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
 > 6 And the priests brought in the ark of the covenant of the LORD unto his place, into the oracle of the house, to the most holy [place, even] under the wings of the cherubims.
 > 7 For the cherubims spread forth [their] two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
@@ -27,6 +44,9 @@ sectionlink: /books/1-kings/
 > 20 And the LORD hath performed his word that he spake, and I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built an house for the name of the LORD God of Israel.
 > 21 And I have set there a place for the ark, wherein [is] the covenant of the LORD, which he made with our fathers, when he brought them out of the land of Egypt.
 > 22 ∂ And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:
+
+### King Solomon's Prayer of Dedication
+
 > 23 And he said, LORD God of Israel, [there is] no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:
 > 24 Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
 > 25 Therefore now, LORD God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.
@@ -66,8 +86,15 @@ sectionlink: /books/1-kings/
 > 59 And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
 > 60 That all the people of the earth may know that the LORD [is] God, [and that there is] none else.
 > 61 Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments, as at this day.
+
+### The Dedication of the Temple
+
 > 62 ∂ And the king, and all Israel with him, offered sacrifice before the LORD.
 > 63 And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, two and twenty thousand oxen, and an hundred and twenty thousand sheep. So the king and all the children of Israel dedicated the house of the LORD.
 > 64 The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.
 > 65 And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the LORD our God, seven days and seven days, [even] fourteen days.
 > 66 On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
+
+[the-ark]: {{ site.baseurl }}/topics/the-ark/
+[the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/
+[the-temple]: {{ site.baseurl }}/topics/the-temple/
