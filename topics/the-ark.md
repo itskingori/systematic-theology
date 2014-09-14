@@ -19,7 +19,8 @@ and began worshipping it while he was up on Mount Sinai — Exodus 32:19.
 During Samuel's time, the Philistines had captured the ark while in battle with
 the Israelites — 1 Samuel 4,5. However the LORD visited them (the Philistines)
 with devastation and afflictions that they were compelled to return it after
-staying with it for only 7 months — 1 Samuel 6.
+staying with it for only 7 months by sending it back on an unguided cart with a
+guilt offering — 1 Samuel 6.
 
 The ark then ended up at Beth Shemesh where the Israelites received it,
 sacrificed and celebrated. In the furor 70 men dared to look into the ark and
