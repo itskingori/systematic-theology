@@ -11,6 +11,10 @@ put into one page for a holistic view.
 
 | Topic       |
 | ----------- |
-| [King David's Wives and Children][1] |
+| [King David's Wives and Children][king-davids-wives-children] |
+| [The Ark][the-ark] |
+| [The Tabernacle][the-tabernacle] |
 
-[1]: {{ site.baseurl }}/topics/king-davids-wives-children/
+[king-davids-wives-children]: {{ site.baseurl }}/topics/king-davids-wives-children/
+[the-ark]: {{ site.baseurl }}/topics/the-ark/
+[the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/
