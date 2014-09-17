@@ -27,26 +27,49 @@ with the LORD before [the temple][the-temple] was built.
   * The table — Exodus 25:23-30
 
 > 5 And king Solomon, and all the congregation of Israel, that were assembled unto him, [were] with him before the ark, sacrificing sheep and oxen, that could not be told nor numbered for multitude.
+
+* This was not an ordinary occassion, this was a big deal! The whole of Israel was there and King Solomon went all out.
+
 > 6 And the priests brought in the ark of the covenant of the LORD unto his place, into the oracle of the house, to the most holy [place, even] under the wings of the cherubims.
 > 7 For the cherubims spread forth [their] two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 > 8 And they drew out the staves, that the ends of the staves were seen out in the holy [place] before the oracle, and they were not seen without: and there they are unto this day.
 > 9 [There was] nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the LORD made [a covenant] with the children of Israel, when they came out of the land of Egypt.
 > 10 And it came to pass, when the priests were come out of the holy [place], that the cloud filled the house of the LORD,
 > 11 So that the priests could not stand to minister because of the cloud: for the glory of the LORD had filled the house of the LORD.
+
+* [The ark][the-ark] was to reside in the Most Holy Place within [the tabernacle][the-tabernacle]. The Most Holy Place was located within the Holy Place.
+* At this point there was nothing in the ark except Moses' two stone tablets. There are other references indicating that it held more at a different time. See Hebrews 9:3,4.
+
 > 12 ∂ Then spake Solomon, The LORD said that he would dwell in the thick darkness.
 > 13 I have surely built thee an house to dwell in, a settled place for thee to abide in for ever.
+
+* The [the tabernacle][the-tabernacle] was mostly a meeting place and not necessarily a house where God could stay. God cannot be contained in a structure. Could it be that King Solomon was a little off the mark here?
+* In [1 Kings Chapter 5:3-6][1-kings-5] it's interesting to note that when King Solomon refers to building of the temple he references it as _'build an house unto the name of the LORD my God'_ and mentions the LORD's own words to King David as _'Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name'_ — v5. Sounds like the temple was more of a way to honour the LORD (and of course also as a place that they could offer sacrifices and meet with God and other religious functions) than a place that 'contained' Him.
+
+### King Solomon Blesses the People
+
 > 14 And the king turned his face about, and blessed all the congregation of Israel: (and all the congregation of Israel stood;)
 > 15 And he said, Blessed [be] the LORD God of Israel, which spake with his mouth unto David my father, and hath with his hand fulfilled [it], saying,
 > 16 Since the day that I brought forth my people Israel out of Egypt, I chose no city out of all the tribes of Israel to build an house, that my name might be therein; but I chose David to be over my people Israel.
+
+* King Solomon gives all the credit to the LORD reminding the people that it was He who orchestrated their deliverance, guided their future and chose their rulers.
+* The temple was for His _'name'_, not that He was to reside in it. It was an honour thing.
+
 > 17 And it was in the heart of David my father to build an house for the name of the LORD God of Israel.
 > 18 And the LORD said unto David my father, Whereas it was in thine heart to build an house unto my name, thou didst well that it was in thine heart.
 > 19 Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name.
+
+* King David had made plans to build the temple. See 1 Chronicles 28.
+* In King David's words ... _'But God said unto me, Thou shalt not build an house for my name, because thou [hast been] a man of war, and hast shed blood'_ — 1 Chronicles 28:3.
+
 > 20 And the LORD hath performed his word that he spake, and I am risen up in the room of David my father, and sit on the throne of Israel, as the LORD promised, and have built an house for the name of the LORD God of Israel.
 > 21 And I have set there a place for the ark, wherein [is] the covenant of the LORD, which he made with our fathers, when he brought them out of the land of Egypt.
-> 22 ∂ And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:
+
+* King Solomon knew King David's plans for the temple, he knew the reason why King David was denied the opportunity and he knew that it was the LORD's instruction that he be the one charged with that responsibility — 1 Chronicles 28:5-7,9-20.
 
 ### King Solomon's Prayer of Dedication
 
+> 22 ∂ And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:
 > 23 And he said, LORD God of Israel, [there is] no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:
 > 24 Who hast kept with thy servant David my father that thou promisedst him: thou spakest also with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
 > 25 Therefore now, LORD God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.
@@ -94,6 +117,8 @@ with the LORD before [the temple][the-temple] was built.
 > 64 The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.
 > 65 And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the LORD our God, seven days and seven days, [even] fourteen days.
 > 66 On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
+
+[1-kings-5]: {{ site.baseurl }}/books/1-kings/chapter-5/
 
 [the-ark]: {{ site.baseurl }}/topics/the-ark/
 [the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/

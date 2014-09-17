@@ -91,6 +91,7 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
 * Overlaid with gold — Exodus 25:13, 37:4.
 * Were to be used to carry the Ark — Exodus 25:14, 37:5.
 * Were never to be removed from the rings — Exodus 25:15.
+* They were so long that their ends could be seen from the Holy Place in front of the inner sanctuary but not from the outside the Holy Place (in King Solomon's temple) — 1 Kings 8:8.
 
 ##### The Cover
 
@@ -105,11 +106,13 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
 * One piece with the cover — Exodus 25:19, 37:8.
 * Are to have wings, spread upward and overshadowing the cover — Exodus 25:20, 37:9.
 * The Cherubim are to face each other — Exodus 25:20, 37:9.
+* Overshadowed the ark and it's carrying poles — 1 Kings 8:7.
 
 ---
 
 1. What did God mean by the Testimony in Exodus 25:16,21?
 2. At what point is the gold jar of manna and Aaron's staff mentioned in Hebrews
    9:3,4 added to the ark?
+3. See [1 Kings 8:6-11][1-kings-ch8].
 
 [1-kings-ch8]: {{ site.baseurl }}/books/1-kings/chapter-8/
