@@ -47,33 +47,33 @@ force. [[1][link-1]]
 |              | [Solomon's Adversaries][11] |
 |              | [Jeroboam Rebels Against Solomon][11] |
 |              | [Solomon's Death][11] |
-| Ch. 12       | Israel Rebels Against Rehoboam |
-|              | Golden Calves at Bethel and Dan |
-| Ch. 13       | The Man of God from Judah |
-| Ch. 14       | Ahijah's Prophecy Against Jeroboam |
-|              | Rehoboam King of Judah |
-| Ch. 15       | Abijah King of Judah |
-|              | Asa King of Judah |
-|              | Nadab King of Israel |
-| Ch. 16       | Baasha King of Israel |
-|              | Elah King of Israel |
-|              | Zimri King of Israel |
-|              | Omri King of Israel |
-| Ch. 17       | Elijah Fed by Ravens |
-|              | The Widow at Zarephath |
-| Ch. 18       | Elijah and Obadiah |
-|              | Elijah on Mount Carmel |
-| Ch. 19       | Elijah Flees to Horeb |
-|              | The LORD Appears to Elijah |
-|              | The Call of Elisha |
-| Ch. 20       | Ben-Hadad Attacks Samaria |
-|              | Ahab Defeats Ben-Hadad |
-|              | A Prophet Condemns Ahab |
-| Ch. 21       | Naboth's Vineyard |
-| Ch. 22       | Micaiah Prophesies Against Ahab |
-|              | Ahab Killed at Ramoth Gilead |
-|              | Jehoshaphat King of Judah |
-|              | Ahaziah King of Israel |
+| [Ch. 12][12] | [Israel Rebels Against Rehoboam][12] |
+|              | [Golden Calves at Bethel and Dan][12] |
+| [Ch. 13][13] | [The Man of God from Judah][13] |
+| [Ch. 14][14] | [Ahijah's Prophecy Against Jeroboam][14] |
+|              | [Rehoboam King of Judah][14] |
+| [Ch. 15][15] | [Abijah King of Judah][15] |
+|              | [Asa King of Judah][15] |
+|              | [Nadab King of Israel][15] |
+| [Ch. 16][16] | [Baasha King of Israel][16] |
+|              | [Elah King of Israel][16] |
+|              | [Zimri King of Israel][16] |
+|              | [Omri King of Israel][16] |
+| [Ch. 17][17] | [Elijah Fed by Ravens][17] |
+|              | [The Widow at Zarephath][17] |
+| [Ch. 18][18] | [Elijah and Obadiah][18] |
+|              | [Elijah on Mount Carmel][18] |
+| [Ch. 19][19] | [Elijah Flees to Horeb][19] |
+|              | [The LORD Appears to Elijah][19] |
+|              | [The Call of Elisha][19] |
+| [Ch. 20][20] | [Ben-Hadad Attacks Samaria][20] |
+|              | [Ahab Defeats Ben-Hadad][20] |
+|              | [A Prophet Condemns Ahab][20] |
+| [Ch. 21][21] | [Naboth's Vineyard][21] |
+| [Ch. 22][22] | [Micaiah Prophesies Against Ahab][22] |
+|              | [Ahab Killed at Ramoth Gilead][22] |
+|              | [Jehoshaphat King of Judah][22] |
+|              | [Ahaziah King of Israel][22] |
 
 
 
@@ -86,11 +86,11 @@ force. [[1][link-1]]
 | 99              | [Chapter 5][5] • [Chapter 6][6] |
 | 100             | [Chapter 7][7] • [Chapter 8][8] |
 | 101             | [Chapter 9][9] • [Chapter 10][10] |
-| 102             | [Chapter 11][11] • Chapter 12 |
-| 103             | Chapter 13 • Chapter 14 |
-| 104             | Chapter 15 • Chapter 16 |
-| 105             | Chapter 17 • Chapter 18 • Chapter 19 |
-| 106             | Chapter 20 • Chapter 21 • Chapter 22 |
+| 102             | [Chapter 11][11] • [Chapter 12][12] |
+| 103             | [Chapter 13][13] • [Chapter 14][14] |
+| 104             | [Chapter 15][15] • [Chapter 16][16] |
+| 105             | [Chapter 17][17] • [Chapter 18][18] • [Chapter 19][19] |
+| 106             | [Chapter 20][20] • [Chapter 21][21] • [Chapter 22][22] |
 
 [link-1]: http://www.enterthebible.org/oldtestament.aspx?rid=31
 
@@ -105,3 +105,14 @@ force. [[1][link-1]]
 [9]: {{ site.baseurl }}/books/1-kings/chapter-9/
 [10]: {{ site.baseurl }}/books/1-kings/chapter-10/
 [11]: {{ site.baseurl }}/books/1-kings/chapter-11/
+[12]: {{ site.baseurl }}/books/1-kings/chapter-12/
+[13]: {{ site.baseurl }}/books/1-kings/chapter-13/
+[14]: {{ site.baseurl }}/books/1-kings/chapter-14/
+[15]: {{ site.baseurl }}/books/1-kings/chapter-15/
+[16]: {{ site.baseurl }}/books/1-kings/chapter-16/
+[17]: {{ site.baseurl }}/books/1-kings/chapter-17/
+[18]: {{ site.baseurl }}/books/1-kings/chapter-18/
+[19]: {{ site.baseurl }}/books/1-kings/chapter-19/
+[20]: {{ site.baseurl }}/books/1-kings/chapter-20/
+[21]: {{ site.baseurl }}/books/1-kings/chapter-21/
+[22]: {{ site.baseurl }}/books/1-kings/chapter-22/

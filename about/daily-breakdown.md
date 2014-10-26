@@ -167,11 +167,11 @@ The schedule below details the chapters to cover per day.
 | [99][1-kings]  | [Chapter 5][1-kings-ch5] • [Chapter 6][1-kings-ch6] |
 | [100][1-kings] | [Chapter 7][1-kings-ch7] • [Chapter 8][1-kings-ch8] |
 | [101][1-kings] | [Chapter 9][1-kings-ch9] • [Chapter 10][1-kings-ch10] |
-| [102][1-kings] | [Chapter 11][1-kings-ch11] • Chapter 12 |
-| [103][1-kings] | Chapter 13 • Chapter 14 |
-| [104][1-kings] | Chapter 15 • Chapter 16 |
-| [105][1-kings] | Chapter 17 • Chapter 18 • Chapter 19 |
-| [106][1-kings] | Chapter 20 • Chapter 21 • Chapter 22 |
+| [102][1-kings] | [Chapter 11][1-kings-ch11] • [Chapter 12][1-kings-ch12] |
+| [103][1-kings] | [Chapter 13][1-kings-ch13] • [Chapter 14][1-kings-ch14] |
+| [104][1-kings] | [Chapter 15][1-kings-ch15] • [Chapter 16][1-kings-ch16] |
+| [105][1-kings] | [Chapter 17][1-kings-ch17] • [Chapter 18][1-kings-ch18] • [Chapter 19][1-kings-ch19] |
+| [106][1-kings] | [Chapter 20][1-kings-ch20] • [Chapter 21][1-kings-ch21] • [Chapter 22][1-kings-ch22] |
 
 ### 2 Kings
 
@@ -721,3 +721,14 @@ The schedule below details the chapters to cover per day.
 [1-kings-ch9]: {{ site.baseurl }}/books/1-kings/chapter-9/
 [1-kings-ch10]: {{ site.baseurl }}/books/1-kings/chapter-10/
 [1-kings-ch11]: {{ site.baseurl }}/books/1-kings/chapter-11/
+[1-kings-ch12]: {{ site.baseurl }}/books/1-kings/chapter-12/
+[1-kings-ch13]: {{ site.baseurl }}/books/1-kings/chapter-13/
+[1-kings-ch14]: {{ site.baseurl }}/books/1-kings/chapter-14/
+[1-kings-ch15]: {{ site.baseurl }}/books/1-kings/chapter-15/
+[1-kings-ch16]: {{ site.baseurl }}/books/1-kings/chapter-16/
+[1-kings-ch17]: {{ site.baseurl }}/books/1-kings/chapter-17/
+[1-kings-ch18]: {{ site.baseurl }}/books/1-kings/chapter-18/
+[1-kings-ch19]: {{ site.baseurl }}/books/1-kings/chapter-19/
+[1-kings-ch20]: {{ site.baseurl }}/books/1-kings/chapter-20/
+[1-kings-ch21]: {{ site.baseurl }}/books/1-kings/chapter-21/
+[1-kings-ch22]: {{ site.baseurl }}/books/1-kings/chapter-22/
