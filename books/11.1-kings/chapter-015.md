@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-15/
 sectionlink: /books/1-kings/
 ---
 
+### Abijah King of Judah
+
 > 1 Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.
 > 2 Three years reigned he in Jerusalem. And his mother's name [was] Maachah, the daughter of Abishalom.
 > 3 And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.
@@ -13,6 +15,9 @@ sectionlink: /books/1-kings/
 > 6 And there was war between Rehoboam and Jeroboam all the days of his life.
 > 7 Now the rest of the acts of Abijam, and all that he did, [are] they not written in the book of the chronicles of the kings of Judah? And there was war between Abijam and Jeroboam.
 > 8 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
+
+### Asa King of Judah
+
 > 9 ∂ And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.
 > 10 And forty and one years reigned he in Jerusalem. And his mother's name [was] Maachah, the daughter of Abishalom.
 > 11 And Asa did [that which was] right in the eyes of the LORD, as [did] David his father.
@@ -29,6 +34,9 @@ sectionlink: /books/1-kings/
 > 22 Then king Asa made a proclamation throughout all Judah; none [was] exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 > 23 The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, [are] they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
 > 24 And Asa slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoshaphat his son reigned in his stead.
+
+### Nadab King of Israel
+
 > 25 ∂ And Nadab the son of Jeroboam began to reign over Israel in the second year of Asa king of Judah, and reigned over Israel two years.
 > 26 And he did evil in the sight of the LORD, and walked in the way of his father, and in his sin wherewith he made Israel to sin.
 > 27 ∂ And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which [belonged] to the Philistines; for Nadab and all Israel laid siege to Gibbethon.

@@ -39,18 +39,18 @@ force. [[1][link-1]]
 |              | [King Solomon Blesses the People][8] |
 |              | [King Solomon's Prayer of Dedication][8] |
 |              | [The Dedication of the Temple][8] |
-| [Ch. 9][9]   | [The LORD Appears to Solomon][9] |
-|              | [Solomon's Other Activities][9] |
+| [Ch. 9][9]   | [The LORD Appears to King Solomon][9] |
+|              | [King Solomon's Other Activities][9] |
 | [Ch. 10][10] | [The Queen of Sheba Visits Solomon][10] |
-|              | [Solomon's Splendor][10] |
-| [Ch. 11][11] | [Solomon's Wives][11] |
-|              | [Solomon's Adversaries][11] |
-|              | [Jeroboam Rebels Against Solomon][11] |
-|              | [Solomon's Death][11] |
-| [Ch. 12][12] | [Israel Rebels Against Rehoboam][12] |
+|              | [King Solomon's Splendor][10] |
+| [Ch. 11][11] | [King Solomon's Wives][11] |
+|              | [King Solomon's Adversaries][11] |
+|              | [Jeroboam Rebels Against King Solomon][11] |
+|              | [King Solomon's Death][11] |
+| [Ch. 12][12] | [Israel Rebels Against King Rehoboam][12] |
 |              | [Golden Calves at Bethel and Dan][12] |
 | [Ch. 13][13] | [The Man of God from Judah][13] |
-| [Ch. 14][14] | [Ahijah's Prophecy Against Jeroboam][14] |
+| [Ch. 14][14] | [Ahijah's Prophecy Against King Jeroboam][14] |
 |              | [Rehoboam King of Judah][14] |
 | [Ch. 15][15] | [Abijah King of Judah][15] |
 |              | [Asa King of Judah][15] |
@@ -59,6 +59,7 @@ force. [[1][link-1]]
 |              | [Elah King of Israel][16] |
 |              | [Zimri King of Israel][16] |
 |              | [Omri King of Israel][16] |
+|              | [Ahab Becomes King of Israel][16] |
 | [Ch. 17][17] | [Elijah Fed by Ravens][17] |
 |              | [The Widow at Zarephath][17] |
 | [Ch. 18][18] | [Elijah and Obadiah][18] |
@@ -66,12 +67,12 @@ force. [[1][link-1]]
 | [Ch. 19][19] | [Elijah Flees to Horeb][19] |
 |              | [The LORD Appears to Elijah][19] |
 |              | [The Call of Elisha][19] |
-| [Ch. 20][20] | [Ben-Hadad Attacks Samaria][20] |
-|              | [Ahab Defeats Ben-Hadad][20] |
-|              | [A Prophet Condemns Ahab][20] |
+| [Ch. 20][20] | [King Ben-Hadad Attacks Samaria][20] |
+|              | [King Ahab Defeats King Ben-Hadad][20] |
+|              | [A Prophet Condemns King Ahab][20] |
 | [Ch. 21][21] | [Naboth's Vineyard][21] |
-| [Ch. 22][22] | [Micaiah Prophesies Against Ahab][22] |
-|              | [Ahab Killed at Ramoth Gilead][22] |
+| [Ch. 22][22] | [Micaiah Prophesies Against King Ahab][22] |
+|              | [King Ahab Killed at Ramoth Gilead][22] |
 |              | [Jehoshaphat King of Judah][22] |
 |              | [Ahaziah King of Israel][22] |
 

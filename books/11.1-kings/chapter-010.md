@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-10/
 sectionlink: /books/1-kings/
 ---
 
+### The Queen of Sheba Visits Solomon
+
 > 1 And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 > 2 And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 > 3 And Solomon told her all her questions: there was not [any] thing hid from the king, which he told her not.
@@ -18,6 +20,9 @@ sectionlink: /books/1-kings/
 > 11 And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.
 > 12 And the king made of the almug trees pillars for the house of the LORD, and for the king's house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.
 > 13 And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside [that] which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.
+
+### The Queen of Sheba Visits Solomon
+
 > 14 ∂ Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
 > 15 Beside [that he had] of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
 > 16 ∂ And king Solomon made two hundred targets [of] beaten gold: six hundred [shekels] of gold went to one target.

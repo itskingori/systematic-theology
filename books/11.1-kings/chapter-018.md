@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-18/
 sectionlink: /books/1-kings/
 ---
 
+### Elijah and Obadiah
+
 > 1 And it came to pass [after] many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.
 > 2 And Elijah went to shew himself unto Ahab. And [there was] a sore famine in Samaria.
 > 3 And Ahab called Obadiah, which [was] the governor of [his] house. (Now Obadiah feared the LORD greatly:
@@ -20,6 +22,9 @@ sectionlink: /books/1-kings/
 > 13 Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD'S prophets by fifty in a cave, and fed them with bread and water?
 > 14 And now thou sayest, Go, tell thy lord, Behold, Elijah [is here]: and he shall slay me.
 > 15 And Elijah said, [As] the LORD of hosts liveth, before whom I stand, I will surely shew myself unto him to day.
+
+### Elijah on Mount Carmel
+
 > 16 So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.
 > 17 ∂ And it came to pass, when Ahab saw Elijah, that Ahab said unto him, [Art] thou he that troubleth Israel?
 > 18 And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the LORD, and thou hast followed Baalim.

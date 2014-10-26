@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-12/
 sectionlink: /books/1-kings/
 ---
 
+### Israel Rebels Against King Rehoboam
+
 > 1 And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 > 2 And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard [of it], (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
 > 3 That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
@@ -29,6 +31,9 @@ sectionlink: /books/1-kings/
 > 22 But the word of God came unto Shemaiah the man of God, saying,
 > 23 Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,
 > 24 Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
+
+### Golden Calves at Bethel and Dan
+
 > 25 ∂ Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
 > 26 And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
 > 27 If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, [even] unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.

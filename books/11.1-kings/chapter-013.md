@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-13/
 sectionlink: /books/1-kings/
 ---
 
+### The Man of God from Judah
+
 > 1 And, behold, there came a man of God out of Judah by the word of the LORD unto Beth-el: and Jeroboam stood by the altar to burn incense.
 > 2 And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee.
 > 3 And he gave a sign the same day, saying, This [is] the sign which the LORD hath spoken; Behold, the altar shall be rent, and the ashes that [are] upon it shall be poured out.

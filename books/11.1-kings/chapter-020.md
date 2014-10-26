@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-20/
 sectionlink: /books/1-kings/
 ---
 
+### King Ben-Hadad Attacks Samaria
+
 > 1 And Ben-hadad the king of Syria gathered all his host together: and [there were] thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
 > 2 And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Ben-hadad,
 > 3 Thy silver and thy gold [is] mine; thy wives also and thy children, [even] the goodliest, [are] mine.
@@ -17,6 +19,9 @@ sectionlink: /books/1-kings/
 > 10 And Ben-hadad sent unto him, and said, The gods do so unto me, and more also, if the dust of Samaria shall suffice for handfuls for all the people that follow me.
 > 11 And the king of Israel answered and said, Tell [him], Let not him that girdeth on [his harness] boast himself as he that putteth it off.
 > 12 And it came to pass, when [Ben-hadad] heard this message, as he [was] drinking, he and the kings in the pavilions, that he said unto his servants, Set [yourselves in array]. And they set [themselves in array] against the city.
+
+### King Ahab Defeats King Ben-Hadad
+
 > 13 ∂ And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I [am] the LORD.
 > 14 And Ahab said, By whom? And he said, Thus saith the LORD, [Even] by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.
 > 15 Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, [even] all the children of Israel, [being] seven thousand.
@@ -39,6 +44,9 @@ sectionlink: /books/1-kings/
 > 32 So they girded sackcloth on their loins, and [put] ropes on their heads, and came to the king of Israel, and said, Thy servant Ben-hadad saith, I pray thee, let me live. And he said, [Is] he yet alive? he [is] my brother.
 > 33 Now the men did diligently observe whether [any thing would come] from him, and did hastily catch [it]: and they said, Thy brother Ben-hadad. Then he said, Go ye, bring him. Then Ben-hadad came forth to him; and he caused him to come up into the chariot.
 > 34 And [Ben-hadad] said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then [said Ahab], I will send thee away with this covenant. So he made a covenant with him, and sent him away.
+
+### A Prophet Condemns King Ahab
+
 > 35 ∂ And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.
 > 36 Then said he unto him, Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.
 > 37 Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded [him].

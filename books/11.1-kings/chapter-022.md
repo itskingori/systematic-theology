@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-22/
 sectionlink: /books/1-kings/
 ---
 
+### Micaiah Prophesies Against King Ahab
+
 > 1 And they continued three years without war between Syria and Israel.
 > 2 And it came to pass in the third year, that Jehoshaphat the king of Judah came down to the king of Israel.
 > 3 And the king of Israel said unto his servants, Know ye that Ramoth in Gilead [is] our's, and we [be] still, [and] take it not out of the hand of the king of Syria?
@@ -33,6 +35,9 @@ sectionlink: /books/1-kings/
 > 26 And the king of Israel said, Take Micaiah, and carry him back unto Amon the governor of the city, and to Joash the king's son;
 > 27 And say, Thus saith the king, Put this [fellow] in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.
 > 28 And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.
+
+### King Ahab Killed at Ramoth Gilead
+
 > 29 So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.
 > 30 And the king of Israel said unto Jehoshaphat, I will disguise myself, and enter into the battle; but put thou on thy robes. And the king of Israel disguised himself, and went into the battle.
 > 31 But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.
@@ -45,6 +50,9 @@ sectionlink: /books/1-kings/
 > 38 And [one] washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the LORD which he spake.
 > 39 Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, [are] they not written in the book of the chronicles of the kings of Israel?
 > 40 So Ahab slept with his fathers; and Ahaziah his son reigned in his stead.
+
+### Jehoshaphat King of Judah
+
 > 41 ∂ And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.
 > 42 Jehoshaphat [was] thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother's name [was] Azubah the daughter of Shilhi.
 > 43 And he walked in all the ways of Asa his father; he turned not aside from it, doing [that which was] right in the eyes of the LORD: nevertheless the high places were not taken away; [for] the people offered and burnt incense yet in the high places.
@@ -55,6 +63,9 @@ sectionlink: /books/1-kings/
 > 48 Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion-geber.
 > 49 Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.
 > 50 ∂ And Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David his father: and Jehoram his son reigned in his stead.
+
+### Ahaziah King of Israel
+
 > 51 ∂ Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
 > 52 And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
 > 53 For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.

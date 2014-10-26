@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-14/
 sectionlink: /books/1-kings/
 ---
 
+### Ahijah's Prophecy Against King Jeroboam
+
 > 1 At that time Abijah the son of Jeroboam fell sick.
 > 2 And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there [is] Ahijah the prophet, which told me that [I should be] king over this people.
 > 3 And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.
@@ -25,6 +27,9 @@ sectionlink: /books/1-kings/
 > 18 And they buried him; and all Israel mourned for him, according to the word of the LORD, which he spake by the hand of his servant Ahijah the prophet.
 > 19 And the rest of the acts of Jeroboam, how he warred, and how he reigned, behold, they [are] written in the book of the chronicles of the kings of Israel.
 > 20 And the days which Jeroboam reigned [were] two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
+
+### Rehoboam King of Judah
+
 > 21 ∂ And Rehoboam the son of Solomon reigned in Judah. Rehoboam [was] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother's name [was] Naamah an Ammonitess.
 > 22 And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
 > 23 For they also built them high places, and images, and groves, on every high hill, and under every green tree.

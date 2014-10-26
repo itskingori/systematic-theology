@@ -5,12 +5,17 @@ permalink: /books/1-kings/chapter-17/
 sectionlink: /books/1-kings/
 ---
 
+### Elijah Fed by Ravens
+
 > 1 And Elijah the Tishbite, [who was] of the inhabitants of Gilead, said unto Ahab, [As] the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
 > 2 And the word of the LORD came unto him, saying,
 > 3 Get thee hence, and turn thee eastward, and hide thyself by the brook Cherith, that [is] before Jordan.
 > 4 And it shall be, [that] thou shalt drink of the brook; and I have commanded the ravens to feed thee there.
 > 5 So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that [is] before Jordan.
 > 6 And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
+
+### The Widow at Zarephath
+
 > 7 And it came to pass after a while, that the brook dried up, because there had been no rain in the land.
 > 8 ∂ And the word of the LORD came unto him, saying,
 > 9 Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.

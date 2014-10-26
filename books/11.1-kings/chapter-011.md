@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-11/
 sectionlink: /books/1-kings/
 ---
 
+### King Solomon's Wives
+
 > 1 But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, [and] Hittites;
 > 2 Of the nations [concerning] which the LORD said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: [for] surely they will turn away your heart after their gods: Solomon clave unto these in love.
 > 3 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
@@ -18,6 +20,9 @@ sectionlink: /books/1-kings/
 > 11 Wherefore the LORD said unto Solomon, Forasmuch as this is done of thee, and thou hast not kept my covenant and my statutes, which I have commanded thee, I will surely rend the kingdom from thee, and will give it to thy servant.
 > 12 Notwithstanding in thy days I will not do it for David thy father's sake: [but] I will rend it out of the hand of thy son.
 > 13 Howbeit I will not rend away all the kingdom; [but] will give one tribe to thy son for David my servant's sake, and for Jerusalem's sake which I have chosen.
+
+### King Solomon's Adversaries
+
 > 14 ∂ And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he [was] of the king's seed in Edom.
 > 15 For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;
 > 16 (For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
@@ -30,6 +35,9 @@ sectionlink: /books/1-kings/
 > 23 ∂ And God stirred him up [another] adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:
 > 24 And he gathered men unto him, and became captain over a band, when David slew them [of Zobah]: and they went to Damascus, and dwelt therein, and reigned in Damascus.
 > 25 And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad [did]: and he abhorred Israel, and reigned over Syria.
+
+### Jeroboam Rebels Against King Solomon
+
 > 26 ∂ And Jeroboam the son of Nebat, an Ephrathite of Zereda, Solomon's servant, whose mother's name [was] Zeruah, a widow woman, even he lifted up [his] hand against the king.
 > 27 And this [was] the cause that he lifted up [his] hand against the king: Solomon built Millo, [and] repaired the breaches of the city of David his father.
 > 28 And the man Jeroboam [was] a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.
@@ -45,6 +53,9 @@ sectionlink: /books/1-kings/
 > 38 And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do [that is] right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.
 > 39 And I will for this afflict the seed of David, but not for ever.
 > 40 Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.
+
+### King Solomon's Death
+
 > 41 ∂ And the rest of the acts of Solomon, and all that he did, and his wisdom, [are] they not written in the book of the acts of Solomon?
 > 42 And the time that Solomon reigned in Jerusalem over all Israel [was] forty years.
 > 43 And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.

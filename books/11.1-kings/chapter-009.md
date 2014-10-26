@@ -5,6 +5,8 @@ permalink: /books/1-kings/chapter-9/
 sectionlink: /books/1-kings/
 ---
 
+### The LORD Appears To King Solomon
+
 > 1 And it came to pass, when Solomon had finished the building of the house of the LORD, and the king's house, and all Solomon's desire which he was pleased to do,
 > 2 That the LORD appeared to Solomon the second time, as he had appeared unto him at Gibeon.
 > 3 And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.
@@ -14,6 +16,9 @@ sectionlink: /books/1-kings/
 > 7 Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:
 > 8 And at this house, [which] is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?
 > 9 And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the LORD brought upon them all this evil.
+
+### King Solomon's Other Activities
+
 > 10 ∂ And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king's house,
 > 11 ([Now] Hiram the king of Tyre had furnished Solomon with cedar trees and fir trees, and with gold, according to all his desire,) that then king Solomon gave Hiram twenty cities in the land of Galilee.
 > 12 And Hiram came out from Tyre to see the cities which Solomon had given him; and they pleased him not.
