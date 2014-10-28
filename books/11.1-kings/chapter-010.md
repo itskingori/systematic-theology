@@ -21,12 +21,18 @@ sectionlink: /books/1-kings/
 > 12 And the king made of the almug trees pillars for the house of the LORD, and for the king's house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.
 > 13 And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside [that] which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.
 
-### The Queen of Sheba Visits Solomon
+### King Solomon's Splendor
 
 > 14 ∂ Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
 > 15 Beside [that he had] of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
+
 > 16 ∂ And king Solomon made two hundred targets [of] beaten gold: six hundred [shekels] of gold went to one target.
 > 17 And [he made] three hundred shields [of] beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.
+
+* King Solomon made 200 hundred large shields and 300 small shields of hammered gold.
+* In the 5th year of [King Rehoboam's][king-rehoboam-son-of-king-solomon] reign Shishak King of Egypt attacked Jerusalem and carried off treasures of the temple and royal palace including all these shields. See 1 Kings 14:25,26 and 2 Chronicles 12:9.
+* Later he would replace them with bronze shields but assign them to the commander of the guard on duty at the entrance of the royal palace. Unlike [King Solomon][king-solomon-son-of-king-david] who would display them in the royal palace, [King Rehoboam][king-rehoboam-son-of-king-solomon] would only have them removed when he went to the LORD's temple; after which they would be returned to the guardroom. See 1 Kings 14:27,28 and 2 Chronicles 12:10,11.
+
 > 18 ∂ Moreover the king made a great throne of ivory, and overlaid it with the best gold.
 > 19 The throne had six steps, and the top of the throne [was] round behind: and [there were] stays on either side on the place of the seat, and two lions stood beside the stays.
 > 20 And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.
@@ -39,3 +45,6 @@ sectionlink: /books/1-kings/
 > 27 And the king made silver [to be] in Jerusalem as stones, and cedars made he [to be] as the sycomore trees that [are] in the vale, for abundance.
 > 28 ∂ And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 > 29 And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
+
+[king-rehoboam-son-of-king-solomon]: {{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/
+[king-solomon-son-of-king-david]: {{ site.baseurl }}/people/king-solomon-son-of-king-david/
