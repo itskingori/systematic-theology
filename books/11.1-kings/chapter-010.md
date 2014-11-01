@@ -30,8 +30,8 @@ sectionlink: /books/1-kings/
 > 17 And [he made] three hundred shields [of] beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.
 
 * King Solomon made 200 hundred large shields and 300 small shields of hammered gold.
-* In the 5th year of [King Rehoboam's][king-rehoboam-son-of-king-solomon] reign Shishak King of Egypt attacked Jerusalem and carried off treasures of the temple and royal palace including all these shields. See 1 Kings 14:25,26 and 2 Chronicles 12:9.
-* Later he would replace them with bronze shields but assign them to the commander of the guard on duty at the entrance of the royal palace. Unlike [King Solomon][king-solomon-son-of-king-david] who would display them in the royal palace, [King Rehoboam][king-rehoboam-son-of-king-solomon] would only have them removed when he went to the LORD's temple; after which they would be returned to the guardroom. See 1 Kings 14:27,28 and 2 Chronicles 12:10,11.
+* In the 5th year of [King Rehoboam's][king-rehoboam-son-of-king-solomon] reign, Shishak King of Egypt attacked Jerusalem and carried off treasures of the temple and royal palace including all these shields (1 Kings 14:25,26 and 2 Chronicles 12:9). It's worth noting that [Jeroboam][king-jeroboam-son-of-nebat], in fear of his life from King Solomon, fled to Egypt to King Shishak (1 Kings 11:40).
+* Unlike [King Solomon][king-solomon-son-of-king-david] who would display them in the royal palace, [King Rehoboam][king-rehoboam-son-of-king-solomon] would only have them removed when he went to the LORD's temple; after which they would be returned to the guardroom. He would replace them with bronze shields but assign them to the commander of the guard on duty at the entrance of the royal palace. See 1 Kings 14:27,28 and 2 Chronicles 12:10,11.
 
 > 18 ∂ Moreover the king made a great throne of ivory, and overlaid it with the best gold.
 > 19 The throne had six steps, and the top of the throne [was] round behind: and [there were] stays on either side on the place of the seat, and two lions stood beside the stays.
@@ -46,5 +46,6 @@ sectionlink: /books/1-kings/
 > 28 ∂ And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 > 29 And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
 
+[king-jeroboam-son-of-nebat]: {{ site.baseurl }}/people/king-jeroboam-son-of-nebat/
 [king-rehoboam-son-of-king-solomon]: {{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/
 [king-solomon-son-of-king-david]: {{ site.baseurl }}/people/king-solomon-son-of-king-david/
