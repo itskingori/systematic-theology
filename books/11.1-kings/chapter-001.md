@@ -110,5 +110,5 @@ sectionlink: /books/1-kings/
 
 * King Solomon's first act is one of mercy but not without a fair warning.
 
-[link-1]: {{ site.baseurl }}/topics/king-davids-wives-children/
+[link-1]: {{ site.baseurl }}/people/king-david-son-of-jesse/
 [link-2]: {{ site.baseurl }}/people/joab-son-of-zeruiah/
