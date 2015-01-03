@@ -67,48 +67,48 @@ sectionlink: /topics/
     <tr>
       <td><b>Asa</b></td>
       <td>41 years <small>(20)</small></td>
-      <td class="danger">Bad</td>
+      <td class="warning">Good start/Bad finish</td>
       <td colspan="2"></td>
       <td class="danger"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Nadab</b></td>
       <td>2 years <small>(2)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Baasha</b></td>
       <td>24 years <small>(3)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Elah</b></td>
       <td>2 years <small>(26)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Zimri</b></td>
       <td>7 days <small>(27)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Omri</b> *</td>
       <td>12 years <small>(31)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="warning"></td>
       <td><b>Ahab</b></td>
       <td>22 years <small>(38)</small></td>
       <td class="danger">Bad</td>
