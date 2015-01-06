@@ -116,20 +116,20 @@ sectionlink: /topics/
     <tr>
       <td><b>Jehoshaphat</b></td>
       <td>25 years <small>(4)</small></td>
-      <td class="danger">Bad</td>
+      <td class="success">Good</td>
       <td colspan="2"></td>
       <td class="danger"></td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="success"></td>
       <td><b>Ahaziah</b></td>
       <td>2 years <small>(17)</small></td>
       <td class="danger">Bad</td>
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td class="danger"></td>
+      <td class="success"></td>
       <td><b>Joram</b></td>
       <td>12 years <small>(18)</small></td>
       <td class="danger">Bad</td>
