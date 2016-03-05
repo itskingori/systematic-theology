@@ -35,7 +35,7 @@ _Ps 2: Ultimately, this is intended to be my life's work. It's nowhere near
 complete i.e. having content on each book, chapter, [topic][3] and
 [character][2]. I figured that I'll never start if choose to start when I know
 it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
-the scroll down to [1 Kings][1-kings]._
+the scroll down to [1 Kings][1-kings] or [Hosea][hosea]._
 
 ### Torah/Pentateuch
 
@@ -88,7 +88,7 @@ the scroll down to [1 Kings][1-kings]._
 
 | Book               | Day of the Year                                   |
 | ------------------ | ------------------------------------------------- |
-| Hosea              | 262 • 263 • 264 |
+| [Hosea][hosea] ☆   | [262 • 263 • 264][hosea] |
 | Joel               | 265 |
 | Amos               | 266 • 267  |
 | Obadiah            | 268 |
@@ -158,3 +158,5 @@ text in the book.
 [4]: mailto:j+st@kingori.co?Subject=Hey%20There...
 
 [1-kings]: {{ site.baseurl }}/books/1-kings/
+
+[hosea]: {{ site.baseurl }}/books/hosea/

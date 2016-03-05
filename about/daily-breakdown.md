@@ -407,13 +407,13 @@ The schedule below details the chapters to cover per day.
 | 260 | Chapter 7 • Chapter 8 • Chapter 9    |
 | 261 | Chapter 10 • Chapter 11 • Chapter 12 |
 
-### Hosea
+### [Hosea][hosea]
 
 | Day | Content to cover                                           |
 | --- | ---------------------------------------------------------- |
-| 262 | Chapter 1 • Chapter 2 • Chapter 3 • Chapter 4 • Chapter 5  |
-| 263 | Chapter 6 • Chapter 7 • Chapter 8 • Chapter 9 • Chapter 10 |
-| 264 | Chapter 11 • Chapter 12 • Chapter 13 • Chapter 14          |
+| [262][hosea] | [Chapter 1][hosea-ch1] • [Chapter 2][hosea-ch2] • [Chapter 3][hosea-ch3] • [Chapter 4][hosea-ch4] • [Chapter 5][hosea-ch5] |
+| [263][hosea] | [Chapter 6][hosea-ch6] • [Chapter 7][hosea-ch7] • [Chapter 8][hosea-ch8] • [Chapter 9][hosea-ch9] • [Chapter 10][hosea-ch10] |
+| [264][hosea] | [Chapter 11][hosea-ch11] • [Chapter 12][hosea-ch12] • [Chapter 13][hosea-ch13] • [Chapter 14][hosea-ch14] |
 
 ### Joel
 
@@ -732,3 +732,19 @@ The schedule below details the chapters to cover per day.
 [1-kings-ch20]: {{ site.baseurl }}/books/1-kings/chapter-20/
 [1-kings-ch21]: {{ site.baseurl }}/books/1-kings/chapter-21/
 [1-kings-ch22]: {{ site.baseurl }}/books/1-kings/chapter-22/
+
+[hosea]: {{ site.baseurl }}/books/hosea/
+[hosea-ch1]: {{ site.baseurl }}/books/hosea/chapter-1/
+[hosea-ch2]: {{ site.baseurl }}/books/hosea/chapter-2/
+[hosea-ch3]: {{ site.baseurl }}/books/hosea/chapter-3/
+[hosea-ch4]: {{ site.baseurl }}/books/hosea/chapter-4/
+[hosea-ch5]: {{ site.baseurl }}/books/hosea/chapter-5/
+[hosea-ch6]: {{ site.baseurl }}/books/hosea/chapter-6/
+[hosea-ch7]: {{ site.baseurl }}/books/hosea/chapter-7/
+[hosea-ch8]: {{ site.baseurl }}/books/hosea/chapter-8/
+[hosea-ch9]: {{ site.baseurl }}/books/hosea/chapter-9/
+[hosea-ch10]: {{ site.baseurl }}/books/hosea/chapter-10/
+[hosea-ch11]: {{ site.baseurl }}/books/hosea/chapter-11/
+[hosea-ch12]: {{ site.baseurl }}/books/hosea/chapter-12/
+[hosea-ch13]: {{ site.baseurl }}/books/hosea/chapter-13/
+[hosea-ch14]: {{ site.baseurl }}/books/hosea/chapter-14/
