@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 baseurl: /systematic-theology
 relative_permalinks: false
 
