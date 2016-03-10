@@ -35,7 +35,7 @@ _Ps 2: Ultimately, this is intended to be my life's work. It's nowhere near
 complete i.e. having content on each book, chapter, [topic][3] and
 [character][2]. I figured that I'll never start if choose to start when I know
 it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
-the scroll down to [1 Kings][1-kings] or [Hosea][hosea]._
+the scroll down to [1 Kings][1-kings], [Hosea][hosea] or [Philippians][philippians]._
 
 ### Torah/Pentateuch
 
@@ -113,21 +113,21 @@ the scroll down to [1 Kings][1-kings] or [Hosea][hosea]._
 
 ### Pauline Epistles
 
-| Book               | Day of the Year                                   |
-| ------------------ | ------------------------------------------------- |
-| Romans             | 328 • 329 • 330 • 331 |
-| 1 Corinthians      | 332 • 333 • 334 • 335 |
-| 2 Corinthians      | 336 • 337 • 338 |
-| Galatians          | 339 • 340 |
-| Ephesians          | 341 |
-| Philippians        | 342 |
-| Colossians         | 343 |
-| 1 Thessalonians    | 344 |
-| 2 Thessalonians    | 345 |
-| 1 Timothy          | 346 |
-| 2 Timothy          | 347 |
-| Titus              | 348 |
-| Philemon           | 349 |
+| Book                        | Day of the Year                                   |
+| --------------------------- | ------------------------------------------------- |
+| Romans                      | 328 • 329 • 330 • 331 |
+| 1 Corinthians               | 332 • 333 • 334 • 335 |
+| 2 Corinthians               | 336 • 337 • 338 |
+| Galatians                   | 339 • 340 |
+| Ephesians                   | 341 |
+| [Philippians][philippians]  | 342 |
+| Colossians                  | 343 |
+| 1 Thessalonians             | 344 |
+| 2 Thessalonians             | 345 |
+| 1 Timothy                   | 346 |
+| 2 Timothy                   | 347 |
+| Titus                       | 348 |
+| Philemon                    | 349 |
 
 ### General Epistles and The Revelation
 
@@ -158,5 +158,5 @@ text in the book.
 [4]: mailto:j+st@kingori.co?Subject=Hey%20There...
 
 [1-kings]: {{ site.baseurl }}/books/1-kings/
-
 [hosea]: {{ site.baseurl }}/books/hosea/
+[philippians]: {{ site.baseurl }}/books/philippians/
