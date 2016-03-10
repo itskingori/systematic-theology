@@ -597,11 +597,11 @@ The schedule below details the chapters to cover per day.
 | --- | --------------------------------------------------------------------- |
 | 341 | Chapter 1 • Chapter 2 • Chapter 3 • Chapter 4 • Chapter 5 • Chapter 6 |
 
-### Philippians
+### [Philippians][philippians]
 
-| Day | Content to cover                              |
-| --- | --------------------------------------------- |
-| 342 | Chapter 1 • Chapter 2 • Chapter 3 • Chapter 4 |
+| Day                | Content to cover                              |
+| ------------------ | --------------------------------------------- |
+| [342][philippians] | [Chapter 1][philippians-ch1] • [Chapter 2][philippians-ch2] • [Chapter 3][philippians-ch3] • [Chapter 4][philippians-ch4] |
 
 ### Colossians
 
@@ -748,3 +748,9 @@ The schedule below details the chapters to cover per day.
 [hosea-ch12]: {{ site.baseurl }}/books/hosea/chapter-12/
 [hosea-ch13]: {{ site.baseurl }}/books/hosea/chapter-13/
 [hosea-ch14]: {{ site.baseurl }}/books/hosea/chapter-14/
+
+[philippians]: {{ site.baseurl }}/books/philippians/
+[philippians-ch1]: {{ site.baseurl }}/books/philippians/chapter-1/
+[philippians-ch2]: {{ site.baseurl }}/books/philippians/chapter-2/
+[philippians-ch3]: {{ site.baseurl }}/books/philippians/chapter-3/
+[philippians-ch4]: {{ site.baseurl }}/books/philippians/chapter-4/
