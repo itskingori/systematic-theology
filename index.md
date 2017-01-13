@@ -38,7 +38,7 @@ it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
 the scroll down to 1 Kings, Hosea or Philippians._
 
 {% for entry in site.data.breakdown.book_days %}
-### {{ entry.section }}
+<h3>{{ entry.section }}</h3>
 
 <table>
   <thead>

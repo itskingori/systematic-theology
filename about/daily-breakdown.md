@@ -13,7 +13,7 @@ to go through.
 The schedule below details the chapters to cover per day.
 
 {% for entry in site.data.breakdown.day_chapters %}
-### {{ entry.book }}
+<h3>{{ entry.book }}</h3>
 
 <table>
   <thead>
