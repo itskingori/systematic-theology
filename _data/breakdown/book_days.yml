@@ -1,6 +1,6 @@
 - section: Torah/Pentateuch
   books:
-    - book: Genesis
+    - title: Genesis
       days:
         - 1
         - 2
@@ -18,7 +18,7 @@
         - 14
         - 15
         - 16
-    - book: Exodus
+    - title: Exodus
       days:
         - 17
         - 18
@@ -33,7 +33,7 @@
         - 27
         - 28
         - 29
-    - book: Leviticus
+    - title: Leviticus
       days:
         - 30
         - 31
@@ -44,7 +44,7 @@
         - 36
         - 37
         - 38
-    - book: Numbers
+    - title: Numbers
       days:
         - 39
         - 40
@@ -59,7 +59,7 @@
         - 49
         - 50
         - 51
-    - book: Deuteronomy
+    - title: Deuteronomy
       days:
         - 52
         - 53
@@ -75,7 +75,7 @@
 
 - section: Historical Books
   books:
-    - book: Joshua
+    - title: Joshua
       days:
         - 63
         - 64
@@ -84,7 +84,7 @@
         - 67
         - 68
         - 69
-    - book: Judges
+    - title: Judges
       days:
         - 70
         - 71
@@ -93,10 +93,10 @@
         - 74
         - 75
         - 76
-    - book: Ruth
+    - title: Ruth
       days:
         - 77
-    - book: 1 Samuel
+    - title: 1 Samuel
       days:
         - 78
         - 79
@@ -108,7 +108,7 @@
         - 85
         - 86
         - 87
-    - book: 2 Samuel
+    - title: 2 Samuel
       days:
         - 88
         - 89
@@ -119,7 +119,7 @@
         - 94
         - 95
         - 96
-    - book: 1 Kings
+    - title: 1 Kings
       days:
         - 97
         - 98
@@ -131,7 +131,7 @@
         - 104
         - 105
         - 106
-    - book: 2 Kings
+    - title: 2 Kings
       days:
         - 107
         - 108
@@ -142,7 +142,7 @@
         - 113
         - 114
         - 115
-    - book: 1 Chronicles
+    - title: 1 Chronicles
       days:
         - 116
         - 117
@@ -155,7 +155,7 @@
         - 124
         - 125
         - 126
-    - book: 2 Chronicles
+    - title: 2 Chronicles
       days:
         - 127
         - 128
@@ -168,26 +168,26 @@
         - 135
         - 136
         - 137
-    - book: Ezra
+    - title: Ezra
       days:
         - 138
         - 139
         - 140
-    - book: Nehemiah
+    - title: Nehemiah
       days:
         - 141
         - 142
         - 143
         - 144
         - 145
-    - book: Esther
+    - title: Esther
       days:
         - 146
         - 147
 
 - section: Wisdom Books
   books:
-    - book: Job
+    - title: Job
       days:
         - 148
         - 149
@@ -199,7 +199,7 @@
         - 155
         - 156
         - 157
-    - book: Psalm
+    - title: Psalm
       days:
         - 158
         - 159
@@ -228,7 +228,7 @@
         - 182
         - 183
         - 184
-    - book: Proverbs
+    - title: Proverbs
       days:
         - 185
         - 186
@@ -239,19 +239,19 @@
         - 191
         - 192
         - 193
-    - book: Ecclesiastes
+    - title: Ecclesiastes
       days:
         - 194
         - 195
         - 196
-    - book: Song of Solomon
+    - title: Song of Solomon
       days:
         - 197
         - 198
 
 - section: Major Prophets
   books:
-    - book: Isaiah
+    - title: Isaiah
       days:
         - 199
         - 200
@@ -274,7 +274,7 @@
         - 217
         - 218
         - 219
-    - book: Jeremiah
+    - title: Jeremiah
       days:
         - 220
         - 221
@@ -296,11 +296,11 @@
         - 237
         - 238
         - 239
-    - book: Lamentations
+    - title: Lamentations
       days:
         - 240
         - 241
-    - book: Ezekiel
+    - title: Ezekiel
       days:
         - 242
         - 243
@@ -318,7 +318,7 @@
         - 255
         - 256
         - 257
-    - book: Daniel
+    - title: Daniel
       days:
         - 258
         - 259
@@ -327,52 +327,52 @@
 
 - section: Minor Prophets
   books:
-    - book: Hosea
+    - title: Hosea
       days:
         - 262
         - 263
         - 264
-    - book: Joel
+    - title: Joel
       days:
         - 265
-    - book: Amos
+    - title: Amos
       days:
       - 266
       - 267
-    - book: Obadiah
+    - title: Obadiah
       days:
         - 268
-    - book: Jonah
+    - title: Jonah
       days:
         - 269
-    - book: Micah
+    - title: Micah
       days:
         - 270
         - 271
-    - book: Nahum
+    - title: Nahum
       days:
         - 272
-    - book: Habakkuk
+    - title: Habakkuk
       days:
         - 273
-    - book: Zephaniah
+    - title: Zephaniah
       days:
         - 274
-    - book: Haggai
+    - title: Haggai
       days:
         - 275
-    - book: Zechariah
+    - title: Zechariah
       days:
       - 276
       - 277
       - 278
-    - book: Malachi
+    - title: Malachi
       days:
         - 279
 
 - section: The Gospels and Acts
   books:
-    - book: Matthew
+    - title: Matthew
       days:
         - 280
         - 281
@@ -385,7 +385,7 @@
         - 288
         - 289
         - 290
-    - book: Mark
+    - title: Mark
       days:
         - 291
         - 292
@@ -394,7 +394,7 @@
         - 295
         - 296
         - 297
-    - book: Luke
+    - title: Luke
       days:
         - 298
         - 299
@@ -407,7 +407,7 @@
         - 306
         - 307
         - 308
-    - book: John
+    - title: John
       days:
         - 309
         - 310
@@ -417,7 +417,7 @@
         - 314
         - 315
         - 316
-    - book: Acts
+    - title: Acts
       days:
         - 317
         - 318
@@ -433,84 +433,84 @@
 
 - section: Pauline Epistles
   books:
-    - book: Romans
+    - title: Romans
       days:
         - 328
         - 329
         - 330
         - 331
-    - book: 1 Corinthians
+    - title: 1 Corinthians
       days:
         - 332
         - 333
         - 334
         - 335
-    - book: 2 Corinthians
+    - title: 2 Corinthians
       days:
         - 336
         - 337
         - 338
-    - book: Galatians
+    - title: Galatians
       days:
         - 339
         - 340
-    - book: Ephesians
+    - title: Ephesians
       days:
         - 341
-    - book: Philippians
+    - title: Philippians
       days:
         - 342
-    - book: Colossians
+    - title: Colossians
       days:
         - 343
-    - book: 1 Thessalonians
+    - title: 1 Thessalonians
       days:
         - 344
-    - book: 2 Thessalonians
+    - title: 2 Thessalonians
       days:
         - 345
-    - book: 1 Timothy
+    - title: 1 Timothy
       days:
         - 346
-    - book: 2 Timothy
+    - title: 2 Timothy
       days:
         - 347
-    - book: Titus
+    - title: Titus
       days:
         - 348
-    - book: Philemon
+    - title: Philemon
       days:
         - 349
 
 - section: General Epistles and The Revelation
   books:
-    - book: Hebrews
+    - title: Hebrews
       days:
         - 350
         - 351
         - 352
-    - book: James
+    - title: James
       days:
         - 353
-    - book: 1 Peter
+    - title: 1 Peter
       days:
         - 354
-    - book: 2 Peter
+    - title: 2 Peter
       days:
         - 355
-    - book: 1 John
+    - title: 1 John
       days:
         - 356
-    - book: 2 John
+    - title: 2 John
       days:
         - 357
-    - book: 3 John
+    - title: 3 John
       days:
         - 358
-    - book: Jude
+    - title: Jude
       days:
         - 359
-    - book: Revelation
+    - title: Revelation
       days:
         - 360
         - 361
