@@ -50,8 +50,15 @@ the scroll down to 1 Kings, Hosea or Philippians._
   <tbody>
 {% for book in entry.books %}
     <tr>
+    {% assign slug = book.title | replace: ' ', '-' | downcase %}
+    {% if slug == 'proverbs' or slug == 'lamentations' or slug == 'ezra' %}
       <td>{{ book.title }}</td>
       <td>{{ book.days | join: ' • ' }}</td>
+    {% else %}
+      {% assign book_url = 'https://enduringword.com/commentary/' | append: slug | append: '-1' %}
+      <td><a target="_blank" href="{{ book_url }}">{{ book.title }}</a></td>
+      <td><a target="_blank" href="{{ book_url }}">{{ book.days | join: ' • ' }}</a></td>
+    {% endif %}
     </tr>
 {% endfor %}
   </tbody>
