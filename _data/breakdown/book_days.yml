@@ -1,0 +1,519 @@
+- section: Torah/Pentateuch
+  books:
+    - book: Genesis
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+        - 10
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+    - book: Exodus
+      days:
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+        - 24
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+    - book: Leviticus
+      days:
+        - 30
+        - 31
+        - 32
+        - 33
+        - 34
+        - 35
+        - 36
+        - 37
+        - 38
+    - book: Numbers
+      days:
+        - 39
+        - 40
+        - 41
+        - 42
+        - 43
+        - 44
+        - 45
+        - 46
+        - 47
+        - 48
+        - 49
+        - 50
+        - 51
+    - book: Deuteronomy
+      days:
+        - 52
+        - 53
+        - 54
+        - 55
+        - 56
+        - 57
+        - 58
+        - 59
+        - 60
+        - 61
+        - 62
+
+- section: Historical Books
+  books:
+    - book: Joshua
+      days:
+        - 63
+        - 64
+        - 65
+        - 66
+        - 67
+        - 68
+        - 69
+    - book: Judges
+      days:
+        - 70
+        - 71
+        - 72
+        - 73
+        - 74
+        - 75
+        - 76
+    - book: Ruth
+      days:
+        - 77
+    - book: 1 Samuel
+      days:
+        - 78
+        - 79
+        - 80
+        - 81
+        - 82
+        - 83
+        - 84
+        - 85
+        - 86
+        - 87
+    - book: 2 Samuel
+      days:
+        - 88
+        - 89
+        - 90
+        - 91
+        - 92
+        - 93
+        - 94
+        - 95
+        - 96
+    - book: 1 Kings
+      days:
+        - 97
+        - 98
+        - 99
+        - 100
+        - 101
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+    - book: 2 Kings
+      days:
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 114
+        - 115
+    - book: 1 Chronicles
+      days:
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    - book: 2 Chronicles
+      days:
+        - 127
+        - 128
+        - 129
+        - 130
+        - 131
+        - 132
+        - 133
+        - 134
+        - 135
+        - 136
+        - 137
+    - book: Ezra
+      days:
+        - 138
+        - 139
+        - 140
+    - book: Nehemiah
+      days:
+        - 141
+        - 142
+        - 143
+        - 144
+        - 145
+    - book: Esther
+      days:
+        - 146
+        - 147
+
+- section: Wisdom Books
+  books:
+    - book: Job
+      days:
+        - 148
+        - 149
+        - 150
+        - 151
+        - 152
+        - 153
+        - 154
+        - 155
+        - 156
+        - 157
+    - book: Psalm
+      days:
+        - 158
+        - 159
+        - 160
+        - 161
+        - 162
+        - 163
+        - 164
+        - 165
+        - 166
+        - 167
+        - 168
+        - 169
+        - 170
+        - 171
+        - 172
+        - 173
+        - 174
+        - 175
+        - 176
+        - 177
+        - 178
+        - 179
+        - 180
+        - 181
+        - 182
+        - 183
+        - 184
+    - book: Proverbs
+      days:
+        - 185
+        - 186
+        - 187
+        - 188
+        - 189
+        - 190
+        - 191
+        - 192
+        - 193
+    - book: Ecclesiastes
+      days:
+        - 194
+        - 195
+        - 196
+    - book: Song of Solomon
+      days:
+        - 197
+        - 198
+
+- section: Major Prophets
+  books:
+    - book: Isaiah
+      days:
+        - 199
+        - 200
+        - 201
+        - 202
+        - 203
+        - 204
+        - 205
+        - 206
+        - 207
+        - 208
+        - 209
+        - 210
+        - 211
+        - 212
+        - 213
+        - 214
+        - 215
+        - 216
+        - 217
+        - 218
+        - 219
+    - book: Jeremiah
+      days:
+        - 220
+        - 221
+        - 222
+        - 223
+        - 224
+        - 225
+        - 226
+        - 227
+        - 228
+        - 229
+        - 230
+        - 231
+        - 232
+        - 233
+        - 234
+        - 235
+        - 236
+        - 237
+        - 238
+        - 239
+    - book: Lamentations
+      days:
+        - 240
+        - 241
+    - book: Ezekiel
+      days:
+        - 242
+        - 243
+        - 244
+        - 245
+        - 246
+        - 247
+        - 248
+        - 249
+        - 250
+        - 251
+        - 252
+        - 253
+        - 254
+        - 255
+        - 256
+        - 257
+    - book: Daniel
+      days:
+        - 258
+        - 259
+        - 260
+        - 261
+
+- section: Minor Prophets
+  books:
+    - book: Hosea
+      days:
+        - 262
+        - 263
+        - 264
+    - book: Joel
+      days:
+        - 265
+    - book: Amos
+      days:
+      - 266
+      - 267
+    - book: Obadiah
+      days:
+        - 268
+    - book: Jonah
+      days:
+        - 269
+    - book: Micah
+      days:
+        - 270
+        - 271
+    - book: Nahum
+      days:
+        - 272
+    - book: Habakkuk
+      days:
+        - 273
+    - book: Zephaniah
+      days:
+        - 274
+    - book: Haggai
+      days:
+        - 275
+    - book: Zechariah
+      days:
+      - 276
+      - 277
+      - 278
+    - book: Malachi
+      days:
+        - 279
+
+- section: The Gospels and Acts
+  books:
+    - book: Matthew
+      days:
+        - 280
+        - 281
+        - 282
+        - 283
+        - 284
+        - 285
+        - 286
+        - 287
+        - 288
+        - 289
+        - 290
+    - book: Mark
+      days:
+        - 291
+        - 292
+        - 293
+        - 294
+        - 295
+        - 296
+        - 297
+    - book: Luke
+      days:
+        - 298
+        - 299
+        - 300
+        - 301
+        - 302
+        - 303
+        - 304
+        - 305
+        - 306
+        - 307
+        - 308
+    - book: John
+      days:
+        - 309
+        - 310
+        - 311
+        - 312
+        - 313
+        - 314
+        - 315
+        - 316
+    - book: Acts
+      days:
+        - 317
+        - 318
+        - 319
+        - 320
+        - 321
+        - 322
+        - 323
+        - 324
+        - 325
+        - 326
+        - 327
+
+- section: Pauline Epistles
+  books:
+    - book: Romans
+      days:
+        - 328
+        - 329
+        - 330
+        - 331
+    - book: 1 Corinthians
+      days:
+        - 332
+        - 333
+        - 334
+        - 335
+    - book: 2 Corinthians
+      days:
+        - 336
+        - 337
+        - 338
+    - book: Galatians
+      days:
+        - 339
+        - 340
+    - book: Ephesians
+      days:
+        - 341
+    - book: Philippians
+      days:
+        - 342
+    - book: Colossians
+      days:
+        - 343
+    - book: 1 Thessalonians
+      days:
+        - 344
+    - book: 2 Thessalonians
+      days:
+        - 345
+    - book: 1 Timothy
+      days:
+        - 346
+    - book: 2 Timothy
+      days:
+        - 347
+    - book: Titus
+      days:
+        - 348
+    - book: Philemon
+      days:
+        - 349
+
+- section: General Epistles and The Revelation
+  books:
+    - book: Hebrews
+      days:
+        - 350
+        - 351
+        - 352
+    - book: James
+      days:
+        - 353
+    - book: 1 Peter
+      days:
+        - 354
+    - book: 2 Peter
+      days:
+        - 355
+    - book: 1 John
+      days:
+        - 356
+    - book: 2 John
+      days:
+        - 357
+    - book: 3 John
+      days:
+        - 358
+    - book: Jude
+      days:
+        - 359
+    - book: Revelation
+      days:
+        - 360
+        - 361
+        - 362
+        - 363
+        - 364

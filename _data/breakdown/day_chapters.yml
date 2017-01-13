@@ -1,0 +1,2046 @@
+- book: Genesis
+  days:
+    - day: 1
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 2
+      chapters:
+        - Chapter 4
+        - Chapter 5
+    - day: 3
+      chapters:
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 4
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 5
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+    - day: 6
+      chapters:
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+    - day: 7
+      chapters:
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
+    - day: 8
+      chapters:
+        - Chapter 23
+        - Chapter 24
+        - Chapter 25
+    - day: 9
+      chapters:
+        - Chapter 26
+        - Chapter 27
+        - Chapter 28
+    - day: 10
+      chapters:
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+    - day: 11
+      chapters:
+        - Chapter 32
+        - Chapter 33
+        - Chapter 34
+    - day: 12
+      chapters:
+        - Chapter 35
+        - Chapter 36
+        - Chapter 37
+    - day: 13
+      chapters:
+        - Chapter 38
+        - Chapter 39
+        - Chapter 40
+    - day: 14
+      chapters:
+        - Chapter 41
+        - Chapter 42
+        - Chapter 43
+    - day: 15
+      chapters:
+        - Chapter 44
+        - Chapter 45
+        - Chapter 46
+        - Chapter 47
+    - day: 16
+      chapters:
+        - Chapter 48
+        - Chapter 49
+        - Chapter 50
+- book: Exodus
+  days:
+    - day: 17
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 18
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+    - day: 19
+      chapters:
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+    - day: 20
+      chapters:
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+    - day: 21
+      chapters:
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+    - day: 22
+      chapters:
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+    - day: 23
+      chapters:
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
+    - day: 24
+      chapters:
+        - Chapter 23
+        - Chapter 24
+        - Chapter 25
+    - day: 25
+      chapters:
+        - Chapter 26
+        - Chapter 27
+        - Chapter 28
+    - day: 26
+      chapters:
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+    - day: 27
+      chapters:
+        - Chapter 32
+        - Chapter 33
+        - Chapter 34
+    - day: 28
+      chapters:
+        - Chapter 35
+        - Chapter 36
+        - Chapter 37
+    - day: 29
+      chapters:
+        - Chapter 38
+        - Chapter 39
+        - Chapter 40
+- book: Leviticus
+  days:
+    - day: 30
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 31
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 32
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 33
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 34
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 35
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 36
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 37
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 38
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+- book: Numbers
+  days:
+    - day: 39
+      chapters:
+        - Chapter 1
+        - Chapter 1
+        - Chapter 3
+    - day: 40
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 41
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 42
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 43
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 44
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 45
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 46
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 47
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 48
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+    - day: 49
+      chapters:
+        - Chapter 31
+        - Chapter 32
+        - Chapter 33
+    - day: 50
+      chapters:
+        - Chapter 33
+        - Chapter 34
+    - day: 51
+      chapters:
+        - Chapter 35
+        - Chapter 36
+- book: Deutronomy
+  days:
+    - day: 52
+      chapters:
+        - Chapter 1
+        - Chapter 1
+        - Chapter 3
+    - day: 53
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 54
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 55
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 56
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 57
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 58
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 59
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 60
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 61
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+    - day: 62
+      chapters:
+        - Chapter 32
+        - Chapter 33
+        - Chapter 34
+- book: Joshua
+  days:
+    - day: 63
+      chapters:
+        - Chapter 1
+        - Chapter 1
+        - Chapter 3
+    - day: 64
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 65
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 66
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 67
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+    - day: 68
+      chapters:
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+        - Chapter 20
+    - day: 69
+      chapters:
+        - Chapter 21
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+- book: Judges
+  days:
+    - day: 70
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 71
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 72
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 73
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 74
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 75
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 76
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+- book: Ruth
+  days:
+    - day: 77
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: 1 Samuel
+  days:
+    - day: 78
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 79
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 80
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 81
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 82
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 83
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 84
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 85
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 86
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 87
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+- book: 2 Samuel
+  days:
+    - day: 88
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 89
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 90
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 91
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 92
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 93
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 94
+      chapters:
+        - Chapter 19
+        - Chapter 20
+    - day: 95
+      chapters:
+        - Chapter 21
+        - Chapter 22
+    - day: 96
+      chapters:
+        - Chapter 23
+        - Chapter 24
+- book: 1 Kings
+  days:
+    - day: 97
+      chapters:
+        - Chapter 1
+        - Chapter 2
+    - day: 98
+      chapters:
+        - Chapter 3
+        - Chapter 4
+    - day: 99
+      chapters:
+        - Chapter 5
+        - Chapter 6
+    - day: 100
+      chapters:
+        - Chapter 7
+        - Chapter 8
+    - day: 101
+      chapters:
+        - Chapter 9
+        - Chapter 10
+    - day: 102
+      chapters:
+        - Chapter 11
+        - Chapter 12
+    - day: 103
+      chapters:
+        - Chapter 13
+        - Chapter 14
+    - day: 104
+      chapters:
+        - Chapter 15
+        - Chapter 16
+    - day: 105
+      chapters:
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+    - day: 106
+      chapters:
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
+- book: 2 Kings
+  days:
+    - day: 107
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 108
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 109
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 110
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 111
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 112
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 113
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 114
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+        - Chapter 25
+- book: 1 Chronicles
+  days:
+    - day: 116
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 117
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 118
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 119
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 120
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 121
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 122
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 123
+      chapters:
+        - Chapter 22
+        - Chapter 23
+    - day: 124
+      chapters:
+        - Chapter 24
+        - Chapter 25
+    - day: 125
+      chapters:
+        - Chapter 26
+        - Chapter 27
+    - day: 126
+      chapters:
+        - Chapter 28
+        - Chapter 29
+- book: 2 Chronicles
+  days:
+    - day: 127
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 128
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 129
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 130
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 131
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 132
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 133
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 134
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 135
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+        - Chapter 28
+    - day: 136
+      chapters:
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+        - Chapter 32
+    - day: 137
+      chapters:
+        - Chapter 33
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+- book: Ezra
+  days:
+    - day: 138
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 139
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 140
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+- book: Nehemiah
+  days:
+    - day: 141
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 142
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 143
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 144
+      chapters:
+        - Chapter 10
+        - Chapter 11
+    - day: 145
+      chapters:
+        - Chapter 12
+        - Chapter 13
+- book: Esther
+  days:
+    - day: 146
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+    - day: 147
+      chapters:
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+- book: Job
+  days:
+    - day: 148
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 149
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 150
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 151
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+    - day: 152
+      chapters:
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+        - Chapter 20
+    - day: 153
+      chapters:
+        - Chapter 21
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 154
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+        - Chapter 28
+    - day: 155
+      chapters:
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+        - Chapter 32
+    - day: 156
+      chapters:
+        - Chapter 33
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+        - Chapter 37
+    - day: 157
+      chapters:
+        - Chapter 38
+        - Chapter 39
+        - Chapter 40
+        - Chapter 41
+        - Chapter 42
+- book: Psalms
+  days:
+    - day: 158
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 159
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 160
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 161
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 162
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+    - day: 163
+      chapters:
+        - Chapter 31
+        - Chapter 32
+        - Chapter 33
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+    - day: 164
+      chapters:
+        - Chapter 37
+        - Chapter 38
+        - Chapter 39
+        - Chapter 40
+        - Chapter 41
+        - Chapter 42
+    - day: 165
+      chapters:
+        - Chapter 43
+        - Chapter 44
+        - Chapter 45
+        - Chapter 46
+        - Chapter 47
+        - Chapter 48
+    - day: 166
+      chapters:
+        - Chapter 49
+        - Chapter 50
+        - Chapter 51
+        - Chapter 52
+        - Chapter 53
+        - Chapter 54
+    - day: 167
+      chapters:
+        - Chapter 55
+        - Chapter 56
+        - Chapter 57
+        - Chapter 58
+        - Chapter 59
+        - Chapter 60
+    - day: 168
+      chapters:
+        - Chapter 61
+        - Chapter 62
+        - Chapter 63
+        - Chapter 64
+        - Chapter 65
+        - Chapter 66
+    - day: 169
+      chapters:
+        - Chapter 67
+        - Chapter 68
+        - Chapter 69
+        - Chapter 70
+        - Chapter 71
+        - Chapter 72
+    - day: 170
+      chapters:
+        - Chapter 73
+        - Chapter 74
+        - Chapter 75
+        - Chapter 76
+        - Chapter 77
+        - Chapter 78
+    - day: 171
+      chapters:
+        - Chapter 79
+        - Chapter 80
+        - Chapter 81
+        - Chapter 82
+        - Chapter 83
+        - Chapter 84
+    - day: 172
+      chapters:
+        - Chapter 85
+        - Chapter 86
+        - Chapter 87
+        - Chapter 88
+        - Chapter 89
+        - Chapter 90
+    - day: 173
+      chapters:
+        - Chapter 91
+        - Chapter 92
+        - Chapter 93
+        - Chapter 94
+        - Chapter 95
+    - day: 174
+      chapters:
+        - Chapter 96
+        - Chapter 97
+        - Chapter 98
+        - Chapter 99
+        - Chapter 100
+    - day: 175
+      chapters:
+        - Chapter 101
+        - Chapter 102
+        - Chapter 103
+        - Chapter 104
+        - Chapter 105
+    - day: 176
+      chapters:
+        - Chapter 106
+        - Chapter 107
+        - Chapter 108
+        - Chapter 109
+        - Chapter 110
+    - day: 177
+      chapters:
+        - Chapter 111
+        - Chapter 112
+        - Chapter 113
+        - Chapter 114
+        - Chapter 115
+    - day: 178
+      chapters:
+        - Chapter 116
+        - Chapter 117
+        - Chapter 118
+        - Chapter 119
+        - Chapter 120
+    - day: 179
+      chapters:
+        - Chapter 121
+        - Chapter 122
+        - Chapter 123
+        - Chapter 124
+        - Chapter 125
+    - day: 180
+      chapters:
+        - Chapter 126
+        - Chapter 127
+        - Chapter 128
+        - Chapter 129
+        - Chapter 130
+    - day: 181
+      chapters:
+        - Chapter 131
+        - Chapter 132
+        - Chapter 133
+        - Chapter 134
+        - Chapter 135
+    - day: 182
+      chapters:
+        - Chapter 136
+        - Chapter 137
+        - Chapter 138
+        - Chapter 139
+        - Chapter 140
+    - day: 183
+      chapters:
+        - Chapter 141
+        - Chapter 142
+        - Chapter 143
+        - Chapter 144
+        - Chapter 145
+    - day: 184
+      chapters:
+        - Chapter 146
+        - Chapter 147
+        - Chapter 148
+        - Chapter 149
+        - Chapter 150
+- book: Proverbs
+  days:
+    - day: 185
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 186
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 187
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 188
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 189
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 190
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+        - Chapter 19
+    - day: 191
+      chapters:
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
+        - Chapter 23
+    - day: 192
+      chapters:
+        - Chapter 24
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 193
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+        - Chapter 31
+- book: Ecclesiastes
+  days:
+    - day: 194
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 195
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 196
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+- book: Song of Songs
+  days:
+    - day: 197
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 198
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+- book: Isaiah
+  days:
+    - day: 199
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 200
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 201
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 202
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 203
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 204
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 205
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 206
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 207
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 208
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+    - day: 209
+      chapters:
+        - Chapter 31
+        - Chapter 32
+        - Chapter 33
+    - day: 210
+      chapters:
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+    - day: 211
+      chapters:
+        - Chapter 37
+        - Chapter 38
+        - Chapter 39
+    - day: 212
+      chapters:
+        - Chapter 40
+        - Chapter 41
+        - Chapter 42
+    - day: 213
+      chapters:
+        - Chapter 43
+        - Chapter 44
+        - Chapter 45
+    - day: 214
+      chapters:
+        - Chapter 46
+        - Chapter 47
+        - Chapter 48
+    - day: 215
+      chapters:
+        - Chapter 49
+        - Chapter 50
+        - Chapter 51
+    - day: 216
+      chapters:
+        - Chapter 52
+        - Chapter 53
+        - Chapter 54
+    - day: 217
+      chapters:
+        - Chapter 55
+        - Chapter 56
+        - Chapter 57
+        - Chapter 58
+    - day: 218
+      chapters:
+        - Chapter 59
+        - Chapter 60
+        - Chapter 61
+        - Chapter 62
+    - day: 219
+      chapters:
+        - Chapter 63
+        - Chapter 64
+        - Chapter 65
+        - Chapter 66
+- book: Jeremiah
+  days:
+    - day: 220
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 221
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 222
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 223
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 224
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 225
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 226
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 227
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 228
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 229
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+    - day: 230
+      chapters:
+        - Chapter 31
+        - Chapter 32
+        - Chapter 33
+    - day: 231
+      chapters:
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+    - day: 232
+      chapters:
+        - Chapter 37
+        - Chapter 38
+    - day: 233
+      chapters:
+        - Chapter 41
+        - Chapter 40
+    - day: 234
+      chapters:
+        - Chapter 42
+        - Chapter 42
+    - day: 235
+      chapters:
+        - Chapter 43
+        - Chapter 44
+    - day: 236
+      chapters:
+        - Chapter 45
+        - Chapter 46
+    - day: 237
+      chapters:
+        - Chapter 47
+        - Chapter 48
+    - day: 238
+      chapters:
+        - Chapter 49
+        - Chapter 50
+    - day: 239
+      chapters:
+        - Chapter 51
+        - Chapter 52
+- book: Lamentations
+  days:
+    - day: 240
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 241
+      chapters:
+        - Chapter 1
+        - Chapter 2
+- book: Ezekiel
+  days:
+    - day: 242
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 243
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 244
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 245
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 246
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 247
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 248
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+    - day: 249
+      chapters:
+        - Chapter 22
+        - Chapter 23
+        - Chapter 24
+    - day: 250
+      chapters:
+        - Chapter 25
+        - Chapter 26
+        - Chapter 27
+    - day: 251
+      chapters:
+        - Chapter 28
+        - Chapter 29
+        - Chapter 30
+    - day: 252
+      chapters:
+        - Chapter 31
+        - Chapter 32
+        - Chapter 33
+    - day: 253
+      chapters:
+        - Chapter 34
+        - Chapter 35
+        - Chapter 36
+    - day: 254
+      chapters:
+        - Chapter 37
+        - Chapter 38
+        - Chapter 39
+    - day: 255
+      chapters:
+        - Chapter 40
+        - Chapter 41
+        - Chapter 42
+    - day: 256
+      chapters:
+        - Chapter 43
+        - Chapter 44
+        - Chapter 45
+    - day: 257
+      chapters:
+        - Chapter 46
+        - Chapter 47
+        - Chapter 48
+- book: Daniel
+  days:
+    - day: 258
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 259
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 260
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 261
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+- book: Hosea
+  days:
+    - day: 262
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+    - day: 263
+      chapters:
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+    - day: 264
+      chapters:
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+        - Chapter 14
+- book: Joel
+  days:
+    - day: 265
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: Amos
+  days:
+    - day: 266
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+    - day: 267
+      chapters:
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+- book: Obadiah
+  days:
+    - day: 268
+      chapters:
+        - Chapter 1
+- book: Jonah
+  days:
+    - day: 269
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: Micah
+  days:
+    - day: 270
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 271
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+- book: Nahum
+  days:
+    - day: 272
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: Habbakkuk
+  days:
+    - day: 273
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: Zephaniah
+  days:
+    - day: 274
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: Haggai
+  days:
+    - day: 275
+      chapters:
+        - Chapter 1
+        - Chapter 2
+- book: Zechariah
+  days:
+    - day: 276
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+    - day: 277
+      chapters:
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+        - Chapter 10
+    - day: 278
+      chapters:
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+        - Chapter 14
+- book: Malachi
+  days:
+    - day: 279
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: Matthew
+  days:
+    - day: 280
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 281
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 282
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 283
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 284
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 285
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 286
+      chapters:
+        - Chapter 19
+        - Chapter 20
+    - day: 287
+      chapters:
+        - Chapter 21
+        - Chapter 22
+    - day: 288
+      chapters:
+        - Chapter 23
+        - Chapter 24
+    - day: 289
+      chapters:
+        - Chapter 25
+        - Chapter 26
+    - day: 290
+      chapters:
+        - Chapter 27
+        - Chapter 28
+- book: Mark
+  days:
+    - day: 291
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 292
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 293
+      chapters:
+        - Chapter 7
+        - Chapter 8
+    - day: 294
+      chapters:
+        - Chapter 9
+        - Chapter 10
+    - day: 295
+      chapters:
+        - Chapter 11
+        - Chapter 12
+    - day: 296
+      chapters:
+        - Chapter 13
+        - Chapter 14
+    - day: 297
+      chapters:
+        - Chapter 15
+        - Chapter 16
+- book: Luke
+  days:
+    - day: 298
+      chapters:
+        - Chapter 1
+        - Chapter 2
+    - day: 299
+      chapters:
+        - Chapter 3
+        - Chapter 4
+    - day: 300
+      chapters:
+        - Chapter 5
+        - Chapter 6
+    - day: 301
+      chapters:
+        - Chapter 7
+        - Chapter 8
+    - day: 302
+      chapters:
+        - Chapter 9
+        - Chapter 10
+    - day: 303
+      chapters:
+        - Chapter 11
+        - Chapter 12
+    - day: 304
+      chapters:
+        - Chapter 13
+        - Chapter 14
+    - day: 305
+      chapters:
+        - Chapter 15
+        - Chapter 16
+    - day: 306
+      chapters:
+        - Chapter 17
+        - Chapter 18
+    - day: 307
+      chapters:
+        - Chapter 19
+        - Chapter 20
+    - day: 308
+      chapters:
+        - Chapter 21
+- book: John
+  days:
+    - day: 309
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 310
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 311
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 312
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 313
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 314
+      chapters:
+        - Chapter 16
+        - Chapter 17
+    - day: 315
+      chapters:
+        - Chapter 18
+        - Chapter 19
+    - day: 316
+      chapters:
+        - Chapter 20
+        - Chapter 21
+- book: Acts
+  days:
+    - day: 317
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 318
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+    - day: 319
+      chapters:
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 320
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 321
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+    - day: 322
+      chapters:
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 323
+      chapters:
+        - Chapter 19
+        - Chapter 20
+    - day: 324
+      chapters:
+        - Chapter 21
+        - Chapter 22
+    - day: 325
+      chapters:
+        - Chapter 23
+        - Chapter 24
+    - day: 326
+      chapters:
+        - Chapter 25
+        - Chapter 26
+    - day: 327
+      chapters:
+        - Chapter 27
+        - Chapter 28
+- book: Romans
+  days:
+    - day: 328
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 329
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 330
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 331
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+- book: 1 Corinthians
+  days:
+    - day: 332
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 333
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 334
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+    - day: 335
+      chapters:
+        - Chapter 13
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+- book: 2 Corinthians
+  days:
+    - day: 336
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 337
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 338
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+- book: Galatians
+  days:
+    - day: 339
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+    - day: 340
+      chapters:
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+- book: Ephesians
+  days:
+    - day: 341
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+- book: Philippians
+  days:
+    - day: 342
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: Colossians
+  days:
+    - day: 343
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: 1 Thessalonians
+  days:
+    - day: 344
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+- book: 2 Thessalonians
+  days:
+    - day: 345
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: 1 Timothy
+  days:
+    - day: 346
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+        - Chapter 6
+- book: 2 Timothy
+  days:
+    - day: 347
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+- book: Titus
+  days:
+    - day: 348
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: Philemon
+  days:
+    - day: 349
+      chapters:
+        - Chapter 1
+- book: Hebrews
+  days:
+    - day: 350
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 351
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+    - day: 352
+      chapters:
+        - Chapter 9
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+- book: James
+  days:
+    - day: 353
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+- book: 1 Peter
+  days:
+    - day: 354
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+- book: 2 Peter
+  days:
+    - day: 355
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+- book: 1 John
+  days:
+    - day: 356
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+        - Chapter 5
+- book: 2 John
+  days:
+    - day: 357
+      chapters:
+        - Chapter 1
+- book: 3 John
+  days:
+    - day: 358
+      chapters:
+        - Chapter 1
+- book: Jude
+  days:
+    - day: 359
+      chapters:
+        - Chapter 1
+- book: Revelations
+  days:
+    - day: 360
+      chapters:
+        - Chapter 1
+        - Chapter 2
+        - Chapter 3
+        - Chapter 4
+    - day: 361
+      chapters:
+        - Chapter 5
+        - Chapter 6
+        - Chapter 7
+        - Chapter 8
+        - Chapter 9
+    - day: 362
+      chapters:
+        - Chapter 10
+        - Chapter 11
+        - Chapter 12
+        - Chapter 13
+    - day: 363
+      chapters:
+        - Chapter 14
+        - Chapter 15
+        - Chapter 16
+        - Chapter 17
+        - Chapter 18
+    - day: 364
+      chapters:
+        - Chapter 19
+        - Chapter 20
+        - Chapter 21
+        - Chapter 22
