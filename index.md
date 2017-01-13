@@ -35,7 +35,7 @@ _Ps 2: Ultimately, this is intended to be my life's work. It's nowhere near
 complete i.e. having content on each book, chapter, [topic][3] and
 [character][2]. I figured that I'll never start if choose to start when I know
 it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
-the scroll down to [1 Kings][1-kings], [Hosea][hosea] or [Philippians][philippians]._
+the scroll down to 1 Kings, Hosea or Philippians._
 
 {% for entry in site.data.breakdown.book_days %}
 ### {{ entry.section }}
@@ -71,7 +71,3 @@ text in the book.
 [2]: {{ site.baseurl }}/people/
 [3]: {{ site.baseurl }}/topics/
 [4]: mailto:j+st@kingori.co?Subject=Hey%20There...
-
-[1-kings]: {{ site.baseurl }}/books/1-kings/
-[hosea]: {{ site.baseurl }}/books/hosea/
-[philippians]: {{ site.baseurl }}/books/philippians/
