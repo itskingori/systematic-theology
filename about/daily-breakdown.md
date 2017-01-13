@@ -23,12 +23,14 @@ The schedule below details the chapters to cover per day.
     </tr>
   </thead>
   <tbody>
-{% for day in entry.days %}
+  {% for day in entry.days %}
+
     <tr>
       <td>{{ day.count }}</td>
       <td>{{ day.chapters | join: ' • ' }}</td>
     </tr>
-{% endfor %}
+
+  {% endfor %}
   </tbody>
 </table>
 

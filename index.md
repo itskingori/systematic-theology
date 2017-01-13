@@ -48,9 +48,11 @@ the scroll down to 1 Kings, Hosea or Philippians._
     </tr>
   </thead>
   <tbody>
-{% for book in entry.books %}
+  {% for book in entry.books %}
+
     <tr>
     {% assign slug = book.title | replace: ' ', '-' | downcase %}
+
     {% if slug == 'proverbs' or slug == 'lamentations' or slug == 'ezra' %}
       <td>{{ book.title }}</td>
       <td>{{ book.days | join: ' • ' }}</td>
@@ -60,7 +62,8 @@ the scroll down to 1 Kings, Hosea or Philippians._
       <td><a target="_blank" href="{{ book_url }}">{{ book.days | join: ' • ' }}</a></td>
     {% endif %}
     </tr>
-{% endfor %}
+
+  {% endfor %}
   </tbody>
 </table>
 {% endfor %}
