@@ -26,8 +26,19 @@ The schedule below details the chapters to cover per day.
   {% for day in entry.days %}
 
     <tr>
+      {% assign slug = entry.book | replace: ' ', '-' | downcase %}
+      {% assign book_url = 'https://enduringword.com/commentary/' | append: slug %}
       <td>{{ day.count }}</td>
-      <td>{{ day.chapters | join: ' • ' }}</td>
+      <td>
+        {% for chapter in day.chapters %}
+          {% if slug == 'proverbs' or slug == 'lamentations' or slug == 'ezra' %}
+            Chapter {{ chapter }} •
+          {% else %}
+            {% assign chapter_url = book_url | append: '-' | append: chapter %}
+            <a target="_blank" href="{{ chapter_url }}">Chapter {{ chapter }} •</a>
+          {% endif %}
+        {% endfor %}
+      </td>
     </tr>
 
   {% endfor %}
