@@ -63,9 +63,9 @@ The Protestant Christian Bible has a total of 66 books: 39 in the Old Testament 
 ---
 
 1. The main determinant of the number of days allocated to complete a book is
-the amount of content i.e. larger books take longer to go through. And by
-larger, this isn't referring to the number of chapters but the actual amount of
-text in the book.
+   the amount of content i.e. larger books take longer to go through. And by
+   larger, this isn't referring to the number of chapters but the actual amount
+   of text in the book.
 
 [1]: {{ site.baseurl }}/about/daily-breakdown/
 [2]: {{ site.baseurl }}/people/
