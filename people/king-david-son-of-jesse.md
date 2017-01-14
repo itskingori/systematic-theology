@@ -52,4 +52,4 @@ to Absalom.
 * Only the order of the first 6 children seems to be confirmed in 2 Samuel
   3:1-5.
 
-[king-saul-son-of-kish]: {{ site.baseurl }}/people/king-saul-son-of-kish/
+[king-saul-son-of-kish]: /people/king-saul-son-of-kish/

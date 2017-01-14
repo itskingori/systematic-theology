@@ -43,6 +43,6 @@ Chronicles 11:21). Only a few are mentioned:
 | Ziza        | Maachah |
 | Shelomith   | Maachah |
 
-[king-david-son-of-jesse]: {{ site.baseurl }}/people/king-david-son-of-jesse/
-[king-jeroboam-son-of-nebat]: {{ site.baseurl }}/people/king-jeroboam-son-of-nebat/
-[king-solomon-son-of-king-david]: {{ site.baseurl }}/people/king-solomon-son-of-king-david/
+[king-david-son-of-jesse]: /people/king-david-son-of-jesse/
+[king-jeroboam-son-of-nebat]: /people/king-jeroboam-son-of-nebat/
+[king-solomon-son-of-king-david]: /people/king-solomon-son-of-king-david/

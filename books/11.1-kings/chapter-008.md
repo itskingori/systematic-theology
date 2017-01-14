@@ -17,7 +17,7 @@ Zion) all this time. Learn more  about [the ark that housed the Testimony][the-a
 > 4 And they brought up the ark of the LORD, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, even those did the priests and the Levites bring up.
 
 * [The tabernacle][the-tabernacle] was a place where the Israelites would meet
-with the LORD before [the temple][the-temple] was built.
+with the LORD before the temple was built.
 * The temple housed some pieces of furniture, namely:
   * The altar of burnt offering — Exodus 27:1-8
   * The altar of incense — Exodus 30:1-10
@@ -143,9 +143,8 @@ with the LORD before [the temple][the-temple] was built.
 > 65 And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the LORD our God, seven days and seven days, [even] fourteen days.
 > 66 On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.
 
-[1-kings-2]: {{ site.baseurl }}/books/1-kings/chapter-2/
-[1-kings-5]: {{ site.baseurl }}/books/1-kings/chapter-5/
+[1-kings-2]: /books/1-kings/chapter-2/
+[1-kings-5]: /books/1-kings/chapter-5/
 
-[the-ark]: {{ site.baseurl }}/topics/the-ark/
-[the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/
-[the-temple]: {{ site.baseurl }}/topics/the-temple/
+[the-ark]: /topics/the-ark/
+[the-tabernacle]: /topics/the-tabernacle/

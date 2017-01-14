@@ -29,7 +29,7 @@ Hosea is the **50th book of the Bible** and **11thth book of the New Testament**
 | --- | ----------------------------------------------------------------- |
 | 342 | [Chapter 1][1] • [Chapter 2][2] • [Chapter 3][3] • [Chapter 4][4] |
 
-[1]: {{ site.baseurl }}/books/philippians/chapter-1/
-[2]: {{ site.baseurl }}/books/philippians/chapter-2/
-[3]: {{ site.baseurl }}/books/philippians/chapter-3/
-[4]: {{ site.baseurl }}/books/philippians/chapter-4/
+[1]: /books/philippians/chapter-1/
+[2]: /books/philippians/chapter-2/
+[3]: /books/philippians/chapter-3/
+[4]: /books/philippians/chapter-4/

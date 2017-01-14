@@ -54,17 +54,17 @@ The capital of the Northern Kingdom fell in 722 BC. All the members of the upper
 
 * [Book of Hosea - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Book_of_Hosea)
 
-[1]: {{ site.baseurl }}/books/hosea/chapter-1/
-[2]: {{ site.baseurl }}/books/hosea/chapter-2/
-[3]: {{ site.baseurl }}/books/hosea/chapter-3/
-[4]: {{ site.baseurl }}/books/hosea/chapter-4/
-[5]: {{ site.baseurl }}/books/hosea/chapter-5/
-[6]: {{ site.baseurl }}/books/hosea/chapter-6/
-[7]: {{ site.baseurl }}/books/hosea/chapter-7/
-[8]: {{ site.baseurl }}/books/hosea/chapter-8/
-[9]: {{ site.baseurl }}/books/hosea/chapter-9/
-[10]: {{ site.baseurl }}/books/hosea/chapter-10/
-[11]: {{ site.baseurl }}/books/hosea/chapter-11/
-[12]: {{ site.baseurl }}/books/hosea/chapter-12/
-[13]: {{ site.baseurl }}/books/hosea/chapter-13/
-[14]: {{ site.baseurl }}/books/hosea/chapter-14/
+[1]: /books/hosea/chapter-1/
+[2]: /books/hosea/chapter-2/
+[3]: /books/hosea/chapter-3/
+[4]: /books/hosea/chapter-4/
+[5]: /books/hosea/chapter-5/
+[6]: /books/hosea/chapter-6/
+[7]: /books/hosea/chapter-7/
+[8]: /books/hosea/chapter-8/
+[9]: /books/hosea/chapter-9/
+[10]: /books/hosea/chapter-10/
+[11]: /books/hosea/chapter-11/
+[12]: /books/hosea/chapter-12/
+[13]: /books/hosea/chapter-13/
+[14]: /books/hosea/chapter-14/

@@ -95,25 +95,25 @@ force. [[1][link-1]]
 
 [link-1]: http://www.enterthebible.org/oldtestament.aspx?rid=31
 
-[1]: {{ site.baseurl }}/books/1-kings/chapter-1/
-[2]: {{ site.baseurl }}/books/1-kings/chapter-2/
-[3]: {{ site.baseurl }}/books/1-kings/chapter-3/
-[4]: {{ site.baseurl }}/books/1-kings/chapter-4/
-[5]: {{ site.baseurl }}/books/1-kings/chapter-5/
-[6]: {{ site.baseurl }}/books/1-kings/chapter-6/
-[7]: {{ site.baseurl }}/books/1-kings/chapter-7/
-[8]: {{ site.baseurl }}/books/1-kings/chapter-8/
-[9]: {{ site.baseurl }}/books/1-kings/chapter-9/
-[10]: {{ site.baseurl }}/books/1-kings/chapter-10/
-[11]: {{ site.baseurl }}/books/1-kings/chapter-11/
-[12]: {{ site.baseurl }}/books/1-kings/chapter-12/
-[13]: {{ site.baseurl }}/books/1-kings/chapter-13/
-[14]: {{ site.baseurl }}/books/1-kings/chapter-14/
-[15]: {{ site.baseurl }}/books/1-kings/chapter-15/
-[16]: {{ site.baseurl }}/books/1-kings/chapter-16/
-[17]: {{ site.baseurl }}/books/1-kings/chapter-17/
-[18]: {{ site.baseurl }}/books/1-kings/chapter-18/
-[19]: {{ site.baseurl }}/books/1-kings/chapter-19/
-[20]: {{ site.baseurl }}/books/1-kings/chapter-20/
-[21]: {{ site.baseurl }}/books/1-kings/chapter-21/
-[22]: {{ site.baseurl }}/books/1-kings/chapter-22/
+[1]: /books/1-kings/chapter-1/
+[2]: /books/1-kings/chapter-2/
+[3]: /books/1-kings/chapter-3/
+[4]: /books/1-kings/chapter-4/
+[5]: /books/1-kings/chapter-5/
+[6]: /books/1-kings/chapter-6/
+[7]: /books/1-kings/chapter-7/
+[8]: /books/1-kings/chapter-8/
+[9]: /books/1-kings/chapter-9/
+[10]: /books/1-kings/chapter-10/
+[11]: /books/1-kings/chapter-11/
+[12]: /books/1-kings/chapter-12/
+[13]: /books/1-kings/chapter-13/
+[14]: /books/1-kings/chapter-14/
+[15]: /books/1-kings/chapter-15/
+[16]: /books/1-kings/chapter-16/
+[17]: /books/1-kings/chapter-17/
+[18]: /books/1-kings/chapter-18/
+[19]: /books/1-kings/chapter-19/
+[20]: /books/1-kings/chapter-20/
+[21]: /books/1-kings/chapter-21/
+[22]: /books/1-kings/chapter-22/

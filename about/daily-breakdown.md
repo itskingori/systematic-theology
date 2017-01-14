@@ -48,4 +48,4 @@ The schedule below details the chapters to cover per day.
 
 {% endfor %}
 
-[1]: {{ site.baseurl }}/
+[1]: /

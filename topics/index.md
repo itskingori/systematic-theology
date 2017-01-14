@@ -15,6 +15,6 @@ put into one page for a holistic view.
 | [The Ark][the-ark] |
 | [The Tabernacle][the-tabernacle] |
 
-[kings-israel-judah]: {{ site.baseurl }}/topics/kings-israel-judah/
-[the-ark]: {{ site.baseurl }}/topics/the-ark/
-[the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/
+[kings-israel-judah]: /topics/kings-israel-judah/
+[the-ark]: /topics/the-ark/
+[the-tabernacle]: /topics/the-tabernacle/

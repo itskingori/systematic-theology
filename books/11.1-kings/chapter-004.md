@@ -72,4 +72,4 @@ becomes king (1 Kings 12:16,17).
 
 * King Solomon's wisdom was not only in judgement but also in things of nature.
 
-[joab]: {{ site.baseurl }}/people/joab-son-of-zeruiah/
+[joab]: /people/joab-son-of-zeruiah/

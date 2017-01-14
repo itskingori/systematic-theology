@@ -15,17 +15,17 @@ sectionlink: /topics/
   </thead>
   <tbody>
     <tr>
-      <td><a href="{{ site.baseurl }}/people/king-saul-son-of-kish/"><b>Saul</b></a></td>
+      <td><a href="/people/king-saul-son-of-kish/"><b>Saul</b></a></td>
       <td>40 years</td>
       <td class="warning">Good start/Bad finish</td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl }}/people/king-david-son-of-jesse/"><b>David</b></a></td>
+      <td><a href="/people/king-david-son-of-jesse/"><b>David</b></a></td>
       <td>40 years</td>
       <td class="success">Good</td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl }}/people/king-solomon-son-of-king-david/"><b>Solomon</b></a></td>
+      <td><a href="/people/king-solomon-son-of-king-david/"><b>Solomon</b></a></td>
       <td>40 years</td>
       <td class="warning">Good start/Bad finish</td>
     </tr>
@@ -50,10 +50,10 @@ sectionlink: /topics/
   </thead>
   <tbody>
     <tr>
-      <td><a href="{{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/"><b>Rehoboam</b></a></td>
+      <td><a href="/people/king-rehoboam-son-of-king-solomon/"><b>Rehoboam</b></a></td>
       <td>17 years</td>
       <td class="danger">Bad</td>
-      <td><a href="{{ site.baseurl }}/people/king-jeroboam-son-of-nebat/"><b>Jeroboam</b></a></td>
+      <td><a href="/people/king-jeroboam-son-of-nebat/"><b>Jeroboam</b></a></td>
       <td>22 years</td>
       <td class="danger">Bad</td>
     </tr>

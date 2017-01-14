@@ -262,7 +262,7 @@
       chapters:
         - 35
         - 36
-- book: Deutronomy
+- book: Deuteronomy
   days:
     - count: 52
       chapters:
@@ -2010,7 +2010,7 @@
     - count: 359
       chapters:
         - 1
-- book: Revelations
+- book: Revelation
   days:
     - count: 360
       chapters:

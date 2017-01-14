@@ -50,4 +50,4 @@ total destruction of the house of King Jeroboam (1 Kings 13:33,34).
 
 1. What is the significance of offering sacrifices in Jerusalem?
 
-[king-rehoboam-son-of-king-solomon]: {{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/
+[king-rehoboam-son-of-king-solomon]: /people/king-rehoboam-son-of-king-solomon/

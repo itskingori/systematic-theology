@@ -46,6 +46,6 @@ sectionlink: /books/1-kings/
 > 28 ∂ And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 > 29 And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
 
-[king-jeroboam-son-of-nebat]: {{ site.baseurl }}/people/king-jeroboam-son-of-nebat/
-[king-rehoboam-son-of-king-solomon]: {{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/
-[king-solomon-son-of-king-david]: {{ site.baseurl }}/people/king-solomon-son-of-king-david/
+[king-jeroboam-son-of-nebat]: /people/king-jeroboam-son-of-nebat/
+[king-rehoboam-son-of-king-solomon]: /people/king-rehoboam-son-of-king-solomon/
+[king-solomon-son-of-king-david]: /people/king-solomon-son-of-king-david/

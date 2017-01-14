@@ -66,7 +66,7 @@ and 27 in the New Testament.
    larger, this isn't referring to the number of chapters but the actual amount
    of text in the book.
 
-[1]: {{ site.baseurl }}/about/daily-breakdown/
-[2]: {{ site.baseurl }}/people/
-[3]: {{ site.baseurl }}/topics/
+[1]: /about/daily-breakdown/
+[2]: /people/
+[3]: /topics/
 [4]: mailto:j+st@kingori.co?Subject=Hey%20There...

@@ -18,9 +18,9 @@ one place.
 | [King Saul][king-saul-son-of-kish]                 | Son of Kish; First king of the 12 united 12 tribes |
 | [King Solomon][king-solomon-son-of-king-david]     | Son on King David; Third king of the united 12 tribes |
 
-[joab-son-of-zeruiah]: {{ site.baseurl }}/people/joab-son-of-zeruiah/
-[king-david-son-of-jesse]: {{ site.baseurl }}/people/king-david-son-of-jesse/
-[king-jeroboam-son-of-nebat]: {{ site.baseurl }}/people/king-jeroboam-son-of-nebat/
-[king-rehoboam-son-of-king-solomon]: {{ site.baseurl }}/people/king-rehoboam-son-of-king-solomon/
-[king-saul-son-of-kish]: {{ site.baseurl }}/people/king-saul-son-of-kish/
-[king-solomon-son-of-king-david]: {{ site.baseurl }}/people/king-solomon-son-of-king-david/
+[joab-son-of-zeruiah]: /people/joab-son-of-zeruiah/
+[king-david-son-of-jesse]: /people/king-david-son-of-jesse/
+[king-jeroboam-son-of-nebat]: /people/king-jeroboam-son-of-nebat/
+[king-rehoboam-son-of-king-solomon]: /people/king-rehoboam-son-of-king-solomon/
+[king-saul-son-of-kish]: /people/king-saul-son-of-kish/
+[king-solomon-son-of-king-david]: /people/king-solomon-son-of-king-david/

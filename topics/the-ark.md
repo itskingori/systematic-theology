@@ -125,4 +125,4 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
    9:3,4 added to the ark?
 3. See [1 Kings 8:6-11][1-kings-ch8].
 
-[1-kings-ch8]: {{ site.baseurl }}/books/1-kings/chapter-8/
+[1-kings-ch8]: /books/1-kings/chapter-8/

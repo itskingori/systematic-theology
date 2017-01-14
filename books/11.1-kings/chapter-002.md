@@ -146,5 +146,5 @@ extended to him.
 
 * Shimei eventually violates King Solomon's edict which results in his death.
 
-[link-1]: {{ site.baseurl }}/people/joab-son-of-zeruiah/
-[link-2]: {{ site.baseurl }}/books/1-kings/chapter-1/
+[link-1]: /people/joab-son-of-zeruiah/
+[link-2]: /books/1-kings/chapter-1/
