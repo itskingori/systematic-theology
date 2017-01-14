@@ -32,5 +32,6 @@ kramdown:
   entity_output:  as_char
   footnote_backlink: '&8617;'
   footnote_nr: 1
+  hard_wrap: false
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   toc_levels: 1..6
