@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/itskingori/systematic-theology.svg?branch=master)](https://travis-ci.org/itskingori/systematic-theology)
+
 This work (King'ori's Bible Study) by [Job King'ori Maina][2] is licensed under
 a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 License][1].
