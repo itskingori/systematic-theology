@@ -63,12 +63,20 @@ refers to unlike the description of the fall the Jerusalem in 2 Kings 25:1-26
 which goes into more detail. Unfortunately, it's still inconclusive as the Ark
 isn't on the list.
 
-> 13 And the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.
-> 14 And the pots, and the shovels, and the snuffers, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
-> 15 And the firepans, and the bowls, [and] such things as [were] of gold, [in] gold, and of silver, [in] silver, the captain of the guard took away.
-> 16 The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
-> 17 The height of the one pillar [was] eighteen cubits, and the chapiter upon it [was] brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.
 
+> 13 And the pillars of brass that [were] in the house of the LORD, and the
+> bases, and the brasen sea that [was] in the house of the LORD, did the
+> Chaldees break in pieces, and carried the brass of them to Babylon. 14 And the
+> pots, and the shovels, and the snuffers, and the spoons, and all the vessels
+> of brass wherewith they ministered, took they away. 15 And the firepans, and
+> the bowls, [and] such things as [were] of gold, [in] gold, and of silver, [in]
+> silver, the captain of the guard took away. 16 The two pillars, one sea, and
+> the bases which Solomon had made for the house of the LORD; the brass of all
+> these vessels was without weight. 17 The height of the one pillar [was]
+> eighteen cubits, and the chapiter upon it [was] brass: and the height of the
+> chapiter three cubits; and the wreathen work, and pomegranates upon the
+> chapiter round about, all of brass: and like unto these had the second pillar
+> with wreathen work.
 
 ### Design
 
@@ -91,12 +99,15 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
 * Overlaid with gold — Exodus 25:13, 37:4.
 * Were to be used to carry the Ark — Exodus 25:14, 37:5.
 * Were never to be removed from the rings — Exodus 25:15.
-* They were so long that their ends could be seen from the Holy Place in front of the inner sanctuary but not from the outside the Holy Place (in King Solomon's temple) — 1 Kings 8:8.
+* They were so long that their ends could be seen from the Holy Place in front
+  of the inner sanctuary but not from the outside the Holy Place (in King
+  Solomon's temple) — 1 Kings 8:8.
 
 ##### The Cover
 
 * Made of pure gold unlike the chest — Exodus 25:17, 37:6.
-* Was 2½ cubits long and 1½ cubits wide just like the chest — Exodus 25:17, 37:6.
+* Was 2½ cubits long and 1½ cubits wide just like the chest — Exodus 25:17,
+  37:6.
 * To be place on top of the chest/ark — Exodus 25:21.
 
 ##### The Cherubim
@@ -104,7 +115,8 @@ by Bezalel to those exact specifications, see Exodus 37:1-9.
 * Made out of hammered gold — Exodus 25:18, 37:7.
 * Were two with each placed on each end of the cover — Exodus 25:19, 37:7,8.
 * One piece with the cover — Exodus 25:19, 37:8.
-* Are to have wings, spread upward and overshadowing the cover — Exodus 25:20, 37:9.
+* Are to have wings, spread upward and overshadowing the cover — Exodus 25:20,
+  37:9.
 * The Cherubim are to face each other — Exodus 25:20, 37:9.
 * Overshadowed the ark and it's carrying poles — 1 Kings 8:7.
 

@@ -11,13 +11,12 @@ with the LORD. Moses had the tent pitched outside the camp some distance away
 from the camp and anyone inquiring of the LORD would go to the tent — v7.
 
 * Whenever Moses went out to the tent all the people would rise and stand at the
-entrances to their tents — v8.
+  entrances to their tents — v8.
 * As Moses would enter the tent of meeting a pillar of cloud would come down and
-stay at the entrance (as the LORD spoke to him) — v9. The LORD would speak with
-Moses face to face, as a man speaks with his friend — v11.
+  stay at the entrance (as the LORD spoke to him) — v9. The LORD would speak
+  with Moses face to face, as a man speaks with his friend — v11.
 * As the cloud was at the entrance the people would all stand up and worship,
-each at the entrance of their tent — v10.
-
+  each at the entrance of their tent — v10.
 
 ### Design
 
@@ -33,9 +32,10 @@ exactly as specified — Exodus 25:9 & 26:30.
 * Had cherubmim worked onto them by skilled worksmen — v1.
 * Were all same size; 28 cubits long x 4 cubits wide — v2.
 * Each set of 5 curtains were joined together — v3.
-* Each set had a 50 loops of blue material along the edges with the loops opposite each other — v4,5.
-* The curtains were fastened together using 50 gold clasps to make one unit — v6.
-
+* Each set had a 50 loops of blue material along the edges with the loops
+  opposite each other — v4,5.
+* The curtains were fastened together using 50 gold clasps to make one unit —
+  v6.
 
 ##### Curtains Over The Tabernacle
 
@@ -49,13 +49,13 @@ exactly as specified — Exodus 25:9 & 26:30.
 * The additional length of the curtain that is left over is to be hang down at
   the rear of the tabernacle — v12.
 * The tent curtains were shorter were 1 cubit longer on both side — v13.
-* What was left was to hnag over the sides of the tabernacle so as to cover it — v13.
-
+* What was left was to hnag over the sides of the tabernacle so as to cover it —
+  v13.
 
 ###### Tent Covering
 
-* Covering was made of ram skins dyed red and over that covering of hides of sea cows.
-
+* Covering was made of ram skins dyed red and over that covering of hides of sea
+  cows.
 
 ##### Frames
 
@@ -65,11 +65,12 @@ exactly as specified — Exodus 25:9 & 26:30.
 * 20 frames for the south side — v18.
 * 20 frames for the north side as well — v20.
 * 6 frames for the west side — v22.
-* All frames in the north and south were to have 2 silver bases under them, i.e. 40 in total — v19,21.
+* All frames in the north and south were to have 2 silver bases under them, i.e.
+  40 in total — v19,21.
 * 2 frames for the far end (the west end) — v23.
-* Corners must be double from the bottom, all the way up fitted into a single ring — v24.
+* Corners must be double from the bottom, all the way up fitted into a single
+  ring — v24.
 * Overlain with gold — v29.
-
 
 ##### Crossbars
 
@@ -83,7 +84,8 @@ exactly as specified — Exodus 25:9 & 26:30.
 
 * Made of blue, purple and scarlet yarn and finely twisted linen — v31.
 * Cherubim worked into it by a skilled craftsman — v31.
-* Hang on 4 posts using made of acacia wood (overlain with gold and standing on 4 silver bases) using gold hooks — v32.
+* Hang on 4 posts using made of acacia wood (overlain with gold and standing on
+  4 silver bases) using gold hooks — v32.
 * The ark of the Testimony was placed behind this curtain — v33.
 * This curtain separated the _Holy Place_ from the _Most Holy Place_ — v34.
 * A table was placed outside it on the north side — v35.
@@ -92,10 +94,10 @@ exactly as specified — Exodus 25:9 & 26:30.
 
 ##### The Entrance To The Tent
 
-* Had a curtain made of blue, purple and scarlet yarn and finely twisted linen — v36.
-* Hang on 5 posts made of acacia wood (overlain with gold and standing on 5 bronze bases) using gold hooks — v37.
-
-
+* Had a curtain made of blue, purple and scarlet yarn and finely twisted linen —
+  v36.
+* Hang on 5 posts made of acacia wood (overlain with gold and standing on 5
+  bronze bases) using gold hooks — v37.
 
 ---
 

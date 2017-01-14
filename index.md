@@ -68,7 +68,8 @@ the scroll down to 1 Kings, Hosea or Philippians._
 </table>
 {% endfor %}
 
-The Protestant Christian Bible has a total of 66 books: 39 in the Old Testament and 27 in the New Testament.
+The Protestant Christian Bible has a total of 66 books: 39 in the Old Testament
+and 27 in the New Testament.
 
 ---
 
