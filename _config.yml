@@ -25,7 +25,7 @@ author:
 
 markdown: kramdown
 kramdown:
-  input:          GFM
+  input: GFM
   auto_id_prefix: ''
   auto_id_stripping: true
   auto_ids: true
