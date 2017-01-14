@@ -32,11 +32,12 @@ The schedule below details the chapters to cover per day.
       <td>
         {% for chapter in day.chapters %}
           {% if slug == 'proverbs' or slug == 'lamentations' or slug == 'ezra' %}
-            Chapter {{ chapter }} •
+            Chapter {{ chapter }}
           {% else %}
             {% assign chapter_url = book_url | append: '-' | append: chapter %}
-            <a target="_blank" href="{{ chapter_url }}">Chapter {{ chapter }} •</a>
+            <a target="_blank" href="{{ chapter_url }}">Chapter {{ chapter }}</a>
           {% endif %}
+          {% unless chapter == day.chapters.last %}•{% endunless %}
         {% endfor %}
       </td>
     </tr>
