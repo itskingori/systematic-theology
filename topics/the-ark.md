@@ -63,7 +63,6 @@ refers to unlike the description of the fall the Jerusalem in 2 Kings 25:1-26
 which goes into more detail. Unfortunately, it's still inconclusive as the Ark
 isn't on the list.
 
-
 > 13 And the pillars of brass that [were] in the house of the LORD, and the
 > bases, and the brasen sea that [was] in the house of the LORD, did the
 > Chaldees break in pieces, and carried the brass of them to Babylon. 14 And the
@@ -83,7 +82,6 @@ isn't on the list.
 The design of the ark was given to Moses by the LORD while he was up in the
 cloud on Mount Sinai. The details are in Exodus 25:10-22. Eventually it was made
 by Bezalel to those exact specifications, see Exodus 37:1-9.
-
 
 ##### The Chest
 

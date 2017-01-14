@@ -24,7 +24,6 @@ The design of the tabernacle was given to Moses by the LORD while he was up in
 the cloud on Mount Sinai. The details are in Exodus 26. It was to be made
 exactly as specified — Exodus 25:9 & 26:30.
 
-
 ##### Tabernacle Curtains
 
 * Had 10 curtains — v1.
@@ -79,7 +78,6 @@ exactly as specified — Exodus 25:9 & 26:30.
 * Overlain with gold — v29.
 * Held to the frames using gold rings — v29.
 
-
 ##### The Separating Curtain
 
 * Made of blue, purple and scarlet yarn and finely twisted linen — v31.
@@ -90,7 +88,6 @@ exactly as specified — Exodus 25:9 & 26:30.
 * This curtain separated the _Holy Place_ from the _Most Holy Place_ — v34.
 * A table was placed outside it on the north side — v35.
 * A lampstand was then placed opposite the table on the south side — v35.
-
 
 ##### The Entrance To The Tent
 

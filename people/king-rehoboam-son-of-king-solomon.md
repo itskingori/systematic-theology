@@ -18,7 +18,6 @@ He did evil in the eyes of the LORD. See 1 Kings 14:22-24, 2 Chronicles 12:14.
 
 He lived in Jerusalem (2 Chronicles 11:5).
 
-
 ### Reign
 
 He became king at the age of 41 years and ruled for a total of 17 years in
@@ -43,7 +42,6 @@ Chronicles 11:21). Only a few are mentioned:
 | Attai       | Maachah |
 | Ziza        | Maachah |
 | Shelomith   | Maachah |
-
 
 [king-david-son-of-jesse]: {{ site.baseurl }}/people/king-david-son-of-jesse/
 [king-jeroboam-son-of-nebat]: {{ site.baseurl }}/people/king-jeroboam-son-of-nebat/
