@@ -2,7 +2,12 @@ highlighter: rouge
 baseurl: /systematic-theology
 relative_permalinks: false
 
-exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-project', 'README.md']
+exclude: [
+  'Gemfile',
+  'Gemfile.lock',
+  '*.sublime-project',
+  'README.md'
+]
 
 full-title: "King'ori's Bible Study"
 short-title: "Bible Study"
