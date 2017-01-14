@@ -20,22 +20,10 @@ account so as to fairly distribute the amount of time required to cover any
 particular book. This means that longer books will require more days to go
 through.
 
-There's also a [breakdown][1] to serve as a guide as to which chapters should be
-included in the [daily reading][1]. Consideration was taken to make sure the
+There's also a [breakdown to serve as a guide as to which chapters should be
+included in the daily reading][1]. Consideration was taken to make sure the
 chapters are distributed in such a way that in each day only one book is
 covered.
-
-_Ps: Books that I've covered or have began covering should have a link to the
-study material. By cover I mean convert to a digital format on the Web — as an
-attempt at making my Bible study (which till this point existed mostly in my
-head and in notebooks) publicly accessible. Work in progress is marked by a ☆
-and complete work by a ★._
-
-_Ps 2: Ultimately, this is intended to be my life's work. It's nowhere near
-complete i.e. having content on each book, chapter, [topic][3] and
-[character][2]. I figured that I'll never start if choose to start when I know
-it all. Feel free to [send comments and feedback][4]. That said, I'll spare you
-the scroll down to 1 Kings, Hosea or Philippians._
 
 {% for entry in site.data.breakdown.book_days %}
 <h3>{{ entry.section }}</h3>
