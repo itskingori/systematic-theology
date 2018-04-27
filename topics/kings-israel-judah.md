@@ -191,7 +191,7 @@ sectionlink: /topics/
       <td class="danger">Bad</td>
     </tr>
     <tr>
-      <td><b>Azariah (Uzziah)</a></td>
+      <td><b>Azariah (Uzziah)</b></td>
       <td>52 years <small>(27)</small></td>
       <td class="success">Good</td>
       <td colspan="2"></td>
@@ -285,7 +285,7 @@ sectionlink: /topics/
       <td colspan="3"></td>
     </tr>
     <tr>
-      <td><b>Jehoiakim (Eliakim)</a></td>
+      <td><b>Jehoiakim (Eliakim)</b></td>
       <td>11 years</td>
       <td class="danger">Bad</td>
       <td colspan="3"></td>
