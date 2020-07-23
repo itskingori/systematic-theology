@@ -12,9 +12,11 @@ put into one page for a holistic view.
 | Topic       |
 | ----------- |
 | [Kings of Israel and Judah][kings-israel-judah] |
+| [Nazirites][nazirites] |
 | [The Ark][the-ark] |
 | [The Tabernacle][the-tabernacle] |
 
 [kings-israel-judah]: {{ site.baseurl }}/topics/kings-israel-judah/
+[nazirites]: {{ site.baseurl }}/topics/nazirites/
 [the-ark]: {{ site.baseurl }}/topics/the-ark/
 [the-tabernacle]: {{ site.baseurl }}/topics/the-tabernacle/
